@@ -22,8 +22,8 @@
  - **Audio Features**
  - **Visual Features**
  - **Fusion**
- 
-![1](https://leanote.com/api/file/getImage?fileId=5b56cc52ab6441542b001526)
+
+![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Benchmarking-Multimodal-Sentiment-Analysis/images/1.png)
 
 ----------
 # 4 Experiments and Observations
