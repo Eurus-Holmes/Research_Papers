@@ -40,26 +40,26 @@
 ----------
 ### 4.2 Speaker-Independent Experiment
 
-![2](https://leanote.com/api/file/getImage?fileId=5b56cd75ab6441542b001581)
+![Figure 2](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Benchmarking-Multimodal-Sentiment-Analysis/images/2.png)
 
-![3](https://leanote.com/api/file/getImage?fileId=5b56cd8dab6441542b001584)
+![Figure 3](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Benchmarking-Multimodal-Sentiment-Analysis/images/3.png)
 
-![4](https://leanote.com/api/file/getImage?fileId=5b56cde5ab6441542b00159a)
+![Figure 4](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Benchmarking-Multimodal-Sentiment-Analysis/images/4.png)
 
 ----------
 ### 4.3 Contributions of the Modalities
 
-![5](https://leanote.com/api/file/getImage?fileId=5b56ce19ab6441561c001600)
+![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Benchmarking-Multimodal-Sentiment-Analysis/images/5.png)
 
 ----------
 ### 4.4 Generalizability of the Models
 
-![6](https://leanote.com/api/file/getImage?fileId=5b56ce51ab6441542b0015c5)
+![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Benchmarking-Multimodal-Sentiment-Analysis/images/6.png)
 
 ----------
 ### 4.5 Visualization of the Datasets
 
-![7](https://leanote.com/api/file/getImage?fileId=5b56ce90ab6441542b0015da)
+![Figure 7](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Benchmarking-Multimodal-Sentiment-Analysis/images/7.png)
 
 ----------
 # 5 Qualitative Analysis
