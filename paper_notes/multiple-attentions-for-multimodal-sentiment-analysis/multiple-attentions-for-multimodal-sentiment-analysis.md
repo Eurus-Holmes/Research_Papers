@@ -41,24 +41,27 @@
 
  - Dataset details
 
-![2](https://leanote.com/api/file/getImage?fileId=5b6574bdab64415f64003eb4)
+![Figure 2](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/multiple-attentions-for-multimodal-sentiment-analysis/images/2.png)
 
  - Different Models and Network Architectures
  - Single-Level vs Multi-level Framework
-![3](https://leanote.com/api/file/getImage?fileId=5b6578c4ab6441615b0045cd)
+ 
+![Figure 3](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/multiple-attentions-for-multimodal-sentiment-analysis/images/3.png)
  - AT-Fusion Performance
  - Comparison Among the Models
     - Comparison with the state of the art
-![4](https://leanote.com/api/file/getImage?fileId=5b65781dab6441615b0045c1)
+    
+![Figure 4](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/multiple-attentions-for-multimodal-sentiment-analysis/images/4.png)
     - unimodal-SVM
     - CAT-LSTM vs Simple-LSTM
-![5](https://leanote.com/api/file/getImage?fileId=5b65791dab64415f64003f27)
+    
+![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/multiple-attentions-for-multimodal-sentiment-analysis/images/5.png)
 
  - Importance of the Modalities
 > As expected, bimodal classifiers dominate unimodal clas- sifiers and trimodal classifiers perform the best among all. Across modalities, textual modality performs better than the other two, thus indicating the need for better feature extraction for audio and video modalities.
  - Qualitative Analysis and Case Studies
 
-![6](https://leanote.com/api/file/getImage?fileId=5b66d9c1ab64413ab400134e)
+![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/multiple-attentions-for-multimodal-sentiment-analysis/images/6.png)
 
 ----------
 # Conclusion
