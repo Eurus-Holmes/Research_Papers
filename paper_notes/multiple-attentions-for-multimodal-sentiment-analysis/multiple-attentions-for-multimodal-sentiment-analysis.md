@@ -26,7 +26,8 @@
  - AT-Fusion – Multimodal fusion using the attention mechanism
  - CAT-LSTM – Attention-based LSTM model for sentiment classification
 
-![1](https://leanote.com/api/file/getImage?fileId=5b6561f9ab64415f640034b1)
+![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/multiple-attentions-for-multimodal-sentiment-analysis/images/1.png)
+
 
 ## Training
 
