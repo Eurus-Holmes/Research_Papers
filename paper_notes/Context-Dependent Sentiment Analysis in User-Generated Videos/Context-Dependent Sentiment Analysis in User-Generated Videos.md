@@ -1,3 +1,6 @@
+# Context-Dependent Sentiment Analysis in User-Generated Videos
+
+----------
 > [论文链接](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Context-Dependent%20Sentiment%20Analysis%20in%20User-Generated%20Videos.pdf)
 
 ----------
@@ -26,7 +29,7 @@
 
 ## Context-Dependent Feature Extraction
 
-![1](https://leanote.com/api/file/getImage?fileId=5b66e489ab64413ca00012f9)
+![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Context-Dependent Sentiment Analysis in User-Generated Videos/images/1.png)
 
 **Different Network Architectures**
 
@@ -40,7 +43,7 @@
  - Non-hierarchical Framework
  - Hierarchical Framework
 
-![2](https://leanote.com/api/file/getImage?fileId=5b66e597ab64413ca0001311)
+![Figure 2](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Context-Dependent Sentiment Analysis in User-Generated Videos/images/2.png)
 
 ----------
 # 4 Experiments
@@ -55,7 +58,7 @@
 
  - IEMOCAP
 
-![3](https://leanote.com/api/file/getImage?fileId=5b66e626ab64413ab4001464)
+![Figure 3](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Context-Dependent Sentiment Analysis in User-Generated Videos/images/3.png)
 
 ## Performance of Different Models
 
@@ -63,14 +66,14 @@
  - Comparison of Different Network Variants
  - Comparison with the Baselines
 
-![4](https://leanote.com/api/file/getImage?fileId=5b66e6bdab64413ab400146f)
+![Figure 4](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Context-Dependent Sentiment Analysis in User-Generated Videos/images/4.png)
 
-![5](https://leanote.com/api/file/getImage?fileId=5b66e6e1ab64413ab4001473)
+![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Context-Dependent Sentiment Analysis in User-Generated Videos/images/5.png)
 
 ## Importance of the Modalities
 ## Generalization of the Models
 
-![6](https://leanote.com/api/file/getImage?fileId=5b66e701ab64413ca0001328)
+![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Context-Dependent Sentiment Analysis in User-Generated Videos/images/6.png)
 
 ## Qualitative Analysis
 
@@ -132,7 +135,7 @@ Two main types of feature extraction methods are proposed:
 
 An LSTM-based network is adopted to perform context-dependent feature extraction by modeling relations among utterances. Basically, unimodal features are fed as input to a LSTM layer that produces contextualized features as shown in diagram below.
 
-![7](https://leanote.com/api/file/getImage?fileId=5b66e489ab64413ca00012f9)
+![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Context-Dependent Sentiment Analysis in User-Generated Videos/images/1.png)
 
 
 Different variants of the LSTM model are experimented with, such as sc-LSTM (unidirectional LSTM cells), h-LSTM (dense layer ignored), bc-LSTM (bidirectional LSTMs), and uni-SVM (unimodal features are used directly with SVM for classification).
@@ -146,7 +149,7 @@ There are basically two frameworks for fusing modalities:
  - ***Non-hierarchical Framework*** — unimodal features are concatenated and fed into the various contextual LSTM networks proposed above (e.g., h-LSTM).
  - ***Hierarchical Framework*** — The difference here is that we don’t concatenate unimodal features, we feed each unimodal feature into the LSTM network proposed above. Think of this framework as having some hierarchy. In the first level, unimodal features are fed individually to LSTM networks. The output of the first level are then concatenated and fed into another LSTM network (i.e., second level). (Check diagram below for overview of hierarchy or see paper for all the details)
 
-![8](https://leanote.com/api/file/getImage?fileId=5b66e597ab64413ca0001311)
+![Figure 2](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Context-Dependent Sentiment Analysis in User-Generated Videos/images/2.png)
 
 ----------
 
@@ -163,7 +166,7 @@ An important consideration in multimodal sentiment analysis is that person-indep
 # Main Findings
 
 
-![9](https://leanote.com/api/file/getImage?fileId=5b5bfa7bab64414f4f0008a4)
+![Figure 7](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Context-Dependent Sentiment Analysis in User-Generated Videos/images/7.png)
 
  - **Hierarchy vs Non-Hierarchy**: From the results in the table above we can observe that hierarchical model significantly outperform the non-hierarchical frameworks (highlighted in green).
  - **LSTM variants**: sc-LSTM and bc-LSTM models perform the best out of the LSTM variants, including the uni-SVM model (results highlighted in red). These results help to show the importance of considering contextual information when classifying utterances.
