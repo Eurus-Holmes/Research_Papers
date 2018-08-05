@@ -1,3 +1,6 @@
+# Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets
+
+----------
 > [原文链接](http://www.aclweb.org/anthology/W17-5202)
 
 ----------
@@ -20,7 +23,8 @@ Consequently, we detect novel state-of-the-art results on the SenTube datasets.
 ----------
 
 # Datasets
-![1](https://leanote.com/api/file/getImage?fileId=5b10ca93ab644116b7000afd)
+![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/images/1.png)
+
 
  - The Stanford Sentiment Treebank (SST-fine) is a dataset of movie reviews.
 
@@ -30,7 +34,8 @@ Consequently, we detect novel state-of-the-art results on the SenTube datasets.
  - The SenTube datasets are texts that are taken from YouTube comments regarding automobiles (SenTube-A) and tablets (SenTube-T).
  - The SemEval 2013 Twitter dataset (SemEval) is a dataset that contains tweets collected for the 2013 SemEval shared task B.
 
-![2](https://leanote.com/api/file/getImage?fileId=5b10caadab644114cd000b26)
+![Figure 2](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/images/2.png)
+
 
 ----------
 
@@ -59,20 +64,19 @@ Consequently, we detect novel state-of-the-art results on the SenTube datasets.
 
 ## Supervised Training
 
-![3](https://leanote.com/api/file/getImage?fileId=5b10d09cab644114cd000eec)
-![4](https://leanote.com/api/file/getImage?fileId=5b10d0e5ab644116b7000ec0)
-![5](https://leanote.com/api/file/getImage?fileId=5b10d0faab644116b7000ecf)
-![6](https://leanote.com/api/file/getImage?fileId=5b10d129ab644116b7000ee5)
+![Figure 3](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/images/3.png)
+![Figure 4](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/images/4.png)
+![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/images/5.png)
+![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/images/6.png)
 
 ----------
 
 # Results
-![7](https://leanote.com/api/file/getImage?fileId=5b10ca24ab644114cd000b18)
-![8](https://leanote.com/api/file/getImage?fileId=5b10ca3cab644116b7000af5)
-![12](https://leanote.com/api/file/getImage?fileId=5b10d1ceab644116b7000ef0)
-![10](https://leanote.com/api/file/getImage?fileId=5b10d192ab644116b7000eea)
-![9](https://leanote.com/api/file/getImage?fileId=5b10d17aab644114cd000f23)
-![11](https://leanote.com/api/file/getImage?fileId=5b10d1b6ab644116b7000eec)
+![Figure 7](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/images/7.png)
+![Figure 8](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/images/8.png)
+![Figure 9](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/images/9.png)
+![Figure 10](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/images/10.png)
+![Figure 11](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/images/11.png)
 
 ----------
 
