@@ -96,7 +96,8 @@ LSTM是把语言学规则（包括情感词典、否定词和程度副词）以�
 从时刻3到时刻4，输入了一个否定词not，我们知道加入not后情感应该会发生很大的变化，通常是一定程度的反转。所以我们为否定词not学习一个Negation Regularizer，并用它去约束p3和p4的关系。
 
 
-![Figure 1](https://leanote.com/api/file/getImage?fileId=5b1111e6ab644116b7001aa1)
+![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Linguistically-Regularized-LSTM-for-Sentiment-Classification/images/1.png)
+
 
 > 本文的核心思想是通过规则化句子的相邻位置的输出来对句子层次的情感分类中的情感词，否定词和程度副词的语言角色进行建模。 
 如图所示，在"It’s not an interesting movie"中，"an interesting movie"和"interesting movie"中的预测情感分布应该彼此接近，而预测的情感分布在"interesting movie"应该与前面的位置（在后面的方向） ("movie") 完全不同，因为可以看到一个情感词("interesting") 。
@@ -173,7 +174,8 @@ $$L_{t}^{(SR)}=max(0,D_{KL}(p_{t},p_{t-1}^{(SR)})-M )$$
 $$p_{t-1}^{(NR)}=softmax(T_{x_{j} }\times p_{t-1}  )$$ 
 $$p_{t+1}^{(NR)} =softmax(T_{x_{j} }\times p_{t+1}  )$$
 
-![figure 2](https://leanote.com/api/file/getImage?fileId=5b0d4528ab644177f100227e)
+![Figure 2](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Linguistically-Regularized-LSTM-for-Sentiment-Classification/images/2.png)
+
 
 <br>
 我们可以看到，如果在当前词是否定词的情况下，如果它的前一个词或者后一个词与当前词的分布较近，那么$NR$的值比较小。
@@ -208,12 +210,14 @@ $$E(\theta )=-\sum_{i}^{}{y^{i}log p^{i}  }+\alpha \sum_{i}^{}{\sum_{t}^{}{L_{t}
 
 > 两个数据集的具体统计信息如下图所示，
 
-![Figure 3](https://leanote.com/api/file/getImage?fileId=5b0d482dab644179d800230b)
+![Figure 3](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Linguistically-Regularized-LSTM-for-Sentiment-Classification/images/3.png)
+
 
 ----------
 ## 实验结果
 
-![Figure 4](https://leanote.com/api/file/getImage?fileId=5b0d4885ab644177f10022d4)
+![Figure 4](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Linguistically-Regularized-LSTM-for-Sentiment-Classification/images/4.png)
+
 
 > 从实验结果可以看出:
 
@@ -224,7 +228,8 @@ $$E(\theta )=-\sum_{i}^{}{y^{i}log p^{i}  }+\alpha \sum_{i}^{}{\sum_{t}^{}{L_{t}
 ----------
 ## 不同规则的效果分析
 
-![Figure 5](https://leanote.com/api/file/getImage?fileId=5b0d4960ab644177f10022e2)
+![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Linguistically-Regularized-LSTM-for-Sentiment-Classification/images/5.png)
+
 
 > 从实验结果可以看出，
 NSR和SR对提升模型性能最重要，
@@ -233,7 +238,8 @@ NR和IR对模型性能提升重要性没有那么强，
 <br>
 为了进一步研究NR和IR的作用，作者又分别在仅包含否定词的子数据集（Neg.Sub）和仅包含程度副词的子数据集（Int.Sub）上做了对比实验，实验结果如下图，
 
-![Figure 6](https://leanote.com/api/file/getImage?fileId=5b0d49c2ab644179d8002323)
+![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Linguistically-Regularized-LSTM-for-Sentiment-Classification/images/6.png)
+
 
 从实验结果可以看出，
 
