@@ -11,7 +11,7 @@
 ----------
 # II. PROPOSED METHODOLOGY
 
-![1](https://leanote.com/api/file/getImage?fileId=5b6a9ac8ab64415159002e08)
+![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/images/1.png)
 
  - *3-D Log-Mels generation*
 
@@ -20,7 +20,8 @@
  - *Architecture of ACRNN*
     - *CRNN Model*
     - *Attention Layer*
-![2](https://leanote.com/api/file/getImage?fileId=5b6a9f5dab64415159002f78)
+    
+![Figure 2](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/images/2.png)
   
 ----------
 # III. EXPERIMENTS
@@ -38,15 +39,15 @@
 
 > *We use ARCNN to execute SER on the Log- Mels with increasing convolutional layer.*
 
-![3](https://leanote.com/api/file/getImage?fileId=5b6aa3e0ab64415159003098)
+![Figure 3](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/images/3.png)
 
   - *Experiment Results*
 
-  ![4](https://leanote.com/api/file/getImage?fileId=5b6aa48bab644151590030ae)
+  ![Figure 4](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/images/4.png)
   
-  ![5](https://leanote.com/api/file/getImage?fileId=5b6aac37ab64414f68003ca5)
+  ![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/images/5.png)
   
-  ![6](https://leanote.com/api/file/getImage?fileId=5b6aac8dab64414f68003cc3)
+  ![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/images/6.png)
 
      
 
