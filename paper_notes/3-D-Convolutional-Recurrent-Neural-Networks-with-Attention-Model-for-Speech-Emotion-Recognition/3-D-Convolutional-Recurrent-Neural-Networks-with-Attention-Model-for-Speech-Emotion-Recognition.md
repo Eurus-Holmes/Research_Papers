@@ -1,3 +1,6 @@
+# 3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition
+
+----------
 > [论文链接](https://github.com/xuanjihe/speech-emotion-recognition/blob/master/3-D.pdf)
 
 ----------
