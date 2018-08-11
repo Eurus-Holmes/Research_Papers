@@ -64,7 +64,7 @@
     - *Comparison of Network Depth*
     - *Comparison of Supervision*
     ![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video/images/5.png)
-    - *Comparison of Layer and Teacher Network *
+    - *Comparison of Layer and Teacher Network*
     ![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video/images/6.png)
  - *Multi-Modal Recognition*
     - *Vision vs. Sound Embeddings*
