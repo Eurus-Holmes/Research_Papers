@@ -1,5 +1,3 @@
-# Research_Papers
-
 index | Title | Source | Notes |
 ------------ | ------------- | ------------ | ------------- |
 1 | *3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.md) |
@@ -13,6 +11,6 @@ index | Title | Source | Notes |
 9 | *Speech Emotion Recognition: Two Decades in a Nutshell, Benchmarks, and Ongoing Trends* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Schuller18-SER.pdf) | TBD |
 10 | *Sentiment-Analysis-on-Speaker-Specific-Speech-Data* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Sentiment-Analysis-on-Speaker-Specific-Speech-Data.pdf) | TBD |
 11 | *multiple-attentions-for-multimodal-sentiment-analysis* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/multiple-attentions-for-multimodal-sentiment-analysis.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/multiple-attentions-for-multimodal-sentiment-analysis/multiple-attentions-for-multimodal-sentiment-analysis.md) |
-
+12 | *SoundNet-Learning-Sound-Representations-from-Unlabeled-Video* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video.md) |
 
 
