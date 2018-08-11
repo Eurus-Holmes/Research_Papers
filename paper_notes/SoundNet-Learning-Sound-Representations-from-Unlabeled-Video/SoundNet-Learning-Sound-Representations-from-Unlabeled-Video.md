@@ -12,7 +12,7 @@
 ----------
 # 1 Introduction
 
-> *We present a deep convolutional network that learns directly on raw audio waveforms, which is trained by transferring knowledge from vision into sound......Since we can leverage large amounts of unlabeled sound data, it is feasible to train deeper networks without significant overfitting, and our experiments suggest deeper models perform better. Visualizations of the representation suggest that the network is also learning high-level detectors, such as recognizing bird chirps or crowds cheering, even though it is trained directly from audio without ground truth labels......The primary contribution of this paper is the development of a large-scale and semantically rich representation for natural sound. * 
+> *We present a deep convolutional network that learns directly on raw audio waveforms, which is trained by transferring knowledge from vision into sound\......Since we can leverage large amounts of unlabeled sound data, it is feasible to train deeper networks without significant overfitting, and our experiments suggest deeper models perform better. Visualizations of the representation suggest that the network is also learning high-level detectors, such as recognizing bird chirps or crowds cheering, even though it is trained directly from audio without ground truth labels\......The primary contribution of this paper is the development of a large-scale and semantically rich representation for natural sound.* 
 
 ## Related Work
 
