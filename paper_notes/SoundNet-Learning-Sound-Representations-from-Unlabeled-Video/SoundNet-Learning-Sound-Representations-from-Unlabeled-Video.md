@@ -69,13 +69,17 @@
     ![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video/images/5.png)
     - *Comparison of Layer and Teacher Network*
     ![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video/images/6.png)
- - *Multi-Modal Recognition*
+  - *Multi-Modal Recognition*
     - *Vision vs. Sound Embeddings*
+    ![Figure 7](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video/images/7.png)
     - *Object and Scene Classification*
+    ![Figure 8](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video/images/8.png)
  - *Visualizations*
-
+ ![Figure 9](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video/images/9.png)
     
 ----------
 # 5 Conclusion
+
+> *We propose to train deep sound networks (SoundNet) by transferring knowledge from established vision networks and large amounts of unlabeled video. The synchronous nature of videos (sound + vision) allow us to perform such a transfer which resulted in semantically rich audio representations for natural sounds. Our results show that transfer with unlabeled video is a powerful paradigm for learning sound representations. All of our experiments suggest that one may obtain better performance simply by downloading more videos, creating deeper networks, and leveraging richer vision models.*
 
 ----------
