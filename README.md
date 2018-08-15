@@ -12,5 +12,6 @@ index | Title | Source | Notes |
 10 | *Sentiment-Analysis-on-Speaker-Specific-Speech-Data* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Sentiment-Analysis-on-Speaker-Specific-Speech-Data.pdf) | TBD |
 11 | *multiple-attentions-for-multimodal-sentiment-analysis* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/multiple-attentions-for-multimodal-sentiment-analysis.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/multiple-attentions-for-multimodal-sentiment-analysis/multiple-attentions-for-multimodal-sentiment-analysis.md) |
 12 | *SoundNet-Learning-Sound-Representations-from-Unlabeled-Video* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video.md) |
+13 | *An Image-based Deep Spectrum Feature Representation for the Recognition of Emotional Speech* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/An_Image-based_Deep_Spectrum_Feature_Representatio.pdf) | TBD |
 
 
