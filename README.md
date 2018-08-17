@@ -17,5 +17,6 @@ index | Title | Source | Notes |
 15 | *Sentiment Lexicon Enhanced Attention-Based LSTM for Sentiment Classification* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Sentiment-Lexicon-Enhanced-Attention-Based%20LSTM-for-Sentiment-Classification.pdf) | TBD |
 16 | *Audio Feature Learning with Triplet-Based Embedding Network* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Audio-Feature-Learning-with-Triplet-Based-Embedding-Network.pdf) | TBD |
 17 | *Music Genre classification using a hierarchical Long Short Term Memory (LSTM) model* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Music-Genre-classification-using-a-hierarchical-Long-Short-Term-Memory-(LSTM)-model.pdf) | TBD |
+18 | *Multimodal Fusion of EEG and Musical Features in Music-Emotion Recognition* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Multimodal-Fusion-of-EEG-and-Musical-Features-in%20Music-Emotion-Recognition.pdf) | TBD |
 
 
