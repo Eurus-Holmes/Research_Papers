@@ -14,5 +14,6 @@ index | Title | Source | Notes |
 12 | *SoundNet-Learning-Sound-Representations-from-Unlabeled-Video* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video/SoundNet-Learning-Sound-Representations-from-Unlabeled-Video.md) |
 13 | *An Image-based Deep Spectrum Feature Representation for the Recognition of Emotional Speech* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/An_Image-based_Deep_Spectrum_Feature_Representatio.pdf) | TBD |
 14 | *Audio Visual Attribute Discovery for Fine-Grained Object Recognition* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Audio-Visual-Attribute-Discovery-for-Fine-Grained-Object-Recognition.pdf) | TBD |
+15 | *Sentiment Lexicon Enhanced Attention-Based LSTM for Sentiment Classification* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Sentiment-Lexicon-Enhanced-Attention-Based%20LSTM-for-Sentiment-Classification.pdf) | TBD |
 
 
