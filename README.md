@@ -18,5 +18,6 @@ index | Title | Source | Notes |
 16 | *Audio Feature Learning with Triplet-Based Embedding Network* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Audio-Feature-Learning-with-Triplet-Based-Embedding-Network.pdf) | TBD |
 17 | *Music Genre classification using a hierarchical Long Short Term Memory (LSTM) model* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Music-Genre-classification-using-a-hierarchical-Long-Short-Term-Memory-(LSTM)-model.pdf) | TBD |
 18 | *Multimodal Fusion of EEG and Musical Features in Music-Emotion Recognition* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Multimodal-Fusion-of-EEG-and-Musical-Features-in%20Music-Emotion-Recognition.pdf) | TBD |
+19 | *Attentive Convolutional Neural Network based Speech Emotion Recognition: A Study on the Impact of Input Features, Signal Length, and Acted Speech* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Attentive%20Convolutional%20Neural%20Network%20Based%20Speech%20Emotion%20Recognition_%20A%20Study%20on%20the%20Impact%20of%20Input%20Features%2C%20Signal%20Length%2C%20and%20Acted%20Speech.PDF) | TBD |
 
 
