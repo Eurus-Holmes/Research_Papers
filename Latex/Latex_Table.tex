@@ -1,0 +1,233 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}%定义了一些颜色
+\usepackage{colortbl,booktabs}%第二个包定义了几个*rule
+\usepackage{tabularx}
+\usepackage{tabu}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{threeparttable}
+\begin{document}
+\begin{table}
+\centering
+\caption{Color Table}
+\begin{tabular}
+{>{\columncolor{blue}}rccccc}
+\toprule[1pt]
+\rowcolor[gray]{0.9}	&1 &2 	&3 	&4 	&5\\
+\midrule
+A	&\multicolumn{1}{>{\columncolor{green}[0pt][0pt]}c}{318.3} 	&327.8	&152.0 	&104.9 	&135.8\\
+B 	&&\multicolumn{1}{>{\columncolor{red}[0pt][0pt]}r}{335.5} 	&137.7	&290.9 	&198.6\\
+\bottomrule[1pt]
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Set Table Length}
+\begin{tabular*}{12cm}{lll}
+\hline
+Start & End  & Character Block Name \\
+\hline
+3400  & 4DB5 & CJK Unified Ideographs Extension A \\
+4E00  & 9FFF & CJK Unified Ideographs \\
+\hline
+\end{tabular*}
+\end{table}
+
+\begin{table}
+\Large
+\caption{Automatic line break}
+\begin{center}
+\begin{tabular}{|l|l|l|l| p{5cm}|}
+\hline
+Item & Name & Gender & Habit & Self-introduction \\ \hline
+1 & Jimmy & Male & Badminton & Hi, everyone,my name is Jimmy. I come from Hamilton,
+and it's my great honour to give this example. My topic is about how to use p{width} command \\ \hline
+2 & Jimmy & Male & Badminton & Hi, everyone,my name is Jimmy. I come from Hamilton,
+and it's my great honour to give this example. My topic is about how to use p{width} command \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}
+\caption{Set Table Width x}
+\begin{tabularx}{10cm}{llX}  % 10cm 減去前兩個欄位寬度後，剩下的通通給
+\hline                      % 第三欄位使用，文字超出的部份會自動折行
+Start & End  & Character Block Name  \\
+\hline
+3400  & 4DB5 & CJK Unified Ideographs Extension A \\
+4E00  & 9FFF & CJK Unified Ideographs \\
+\hline
+\end{tabularx}
+\end{table}
+
+\begin{table}
+\caption{Set the width of a column in the middle of the table}
+\begin{tabularx}{12cm}{lXl}
+\hline
+Start & End  & Character Block Name \\
+\hline
+3400  & 4DB5 & CJK Unified Ideographs Extension A \\
+4E00  & 9FFF & CJK Unified Ideographs \\
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[ht] %开始一个表格environment，表格的位置是h,here。
+\caption{Change any column width} %显示表格的标题
+\begin{tabular}{p{3.5cm}|p{2cm}|p{5cm}} %设置了每一列的宽度，强制转换。
+\hline
+\hline
+Format & Extension & Description \\ %用&来分隔单元格的内容 \\表示进入下一行
+\hline %画一个横线，下面的就都是一样了，这里一共有4行内容
+Bitmap & .bmp & Bitmap images are recommended because they offer the most control over the exact image and colors.\\
+\hline
+Graphics Interchange Format (GIF) & .gif & Compressed image format used for Web pages. Animated GIFs are supported.\\
+\hline
+Joint Photographic Experts Group (JPEG) & .jpeg, .jpg & Compressed image format used for Web pages.\\
+\hline
+Portable Network Graphics (PNG) & .png & Compressed image format used for Web pages.\\
+\hline
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{tabu package}
+\begin{center}
+\begin{tabu} to 0.8\textwidth{X[c]|X[3,b]|X[2,l]|X[c]|X[3,m]|X[1,c]}
+%0.8\textwidth   为设置表格宽度
+%X[c]      表示这一列居中，所占比例为1，相当于X[1,c]
+%X[3,c]   表示这一列居中，所占比例为3，这列的宽度是X[c]列的3倍
+\hline
+$i$  &$x_i$              &$n_i$      &$i$    &$x_i$               &$n_i$\\
+\hline
+1    &0.5$\sim$0.64       &1           &8    &1.48$\sim$1.62      &53\\
+2    &0.64$\sim$0.78      &2           &9    &1.62$\sim$1.76      &25\\
+3    &0.78$\sim$0.92      &9           &10   &1.76$\sim$1.90      &19\\
+4    &0.92$\sim$1.06      &26          &11   &1.90$\sim$2.04      &16\\
+5    &1.06$\sim$1.20      &37          &12   &2.04$\sim$2.18      &3\\
+6    &1.20$\sim$1.34      &53          &13   &2.18$\sim$2.38      &1\\
+7    &1.34$\sim$1.48      &56          &     &                    & \\
+\hline
+\end{tabu}
+\end{center}
+\end{table}
+
+\newcommand{\tabincell}[2]{\begin{tabular}{@{}#1@{}}#2\end{tabular}}
+\begin{table}[!t]
+  \centering
+  \scriptsize
+  \caption{NOTATIONS}
+  \label{tab:notations}
+  \begin{tabular}{ll}
+    \\[-2mm]
+    \hline
+    \hline\\[-2mm]
+    {\bf \small Symbol}&\qquad {\bf\small Meaning}\\
+    \hline
+    \vspace{1mm}\\[-3mm]
+    $P\!M_i$      &   \tabincell{l}{The $i\,th$ physical machine or host server in the data \\center, i = 1, 2, ?-}\\
+    \vspace{1mm}
+    $C\!M$          &  \tabincell{l}{ Vector of maximum disk size; $CM[i]$ stores the maximum\\ disk size of $PM_i$}\\
+     \vspace{1mm}
+    $B\!M$          &  \tabincell{l}{Vector of remaining disk size; $BM[i]$ stores the remaining\\ disk size of $PM_i$}\\
+     \vspace{1mm}
+    $S\!P(P\!M_i)$  &   \tabincell{l}{Selection preference of $PM_i$  }\\
+     \vspace{1mm}
+    $N\!ode_m$    &	\tabincell{l}{The m\,th node of the data center network. A node can be a  \\host server or a switch. m = 1, 2, ?-}\\
+    \hline
+    \hline
+  \end{tabular}
+\end{table}
+
+\renewcommand{\arraystretch}{1.5} 
+\begin{table}[tp]
+ 
+  \centering
+  \fontsize{6.5}{8}\selectfont
+  \caption{Demographic Prediction performance comparison by three evaluation metrics.}
+  \label{tab:performance_comparison}
+    \begin{tabular}{|c|c|c|c|c|c|c|}
+    \hline
+    \multirow{2}{*}{Method}&
+    \multicolumn{3}{c|}{C}&\multicolumn{3}{c|}{ D}\cr\cline{2-7}
+    &Precision&Recall&F1-Measure&Precision&Recall&F1-Measure\cr
+    \hline
+    \hline
+    A&0.7324&0.7388&0.7301&0.6371&0.6462&0.6568\cr\hline
+   B&0.7321&0.7385&0.7323&0.6363&0.6462&0.6559\cr\hline
+    C&0.7321&0.7222&0.7311&0.6243&0.6227&0.6570\cr\hline
+    D&0.7654&0.7716&0.7699&0.6695&0.6684&0.6642\cr\hline
+    E&0.7435&0.7317&0.7343&0.6386&0.6488&0.6435\cr\hline
+    F&0.7667&0.7644&0.7646&0.6609&0.6687&0.6574\cr\hline
+    G&{\bf 0.8189}&{\bf 0.8139}&{\bf 0.8146}&{\bf 0.6971}&{\bf 0.6904}&{\bf 0.6935}\cr
+    \hline
+    \end{tabular}
+\end{table}
+
+\renewcommand{\arraystretch}{1.5} %控制行高
+\begin{table}[tp]
+ 
+  \centering
+  \fontsize{6.5}{8}\selectfont
+  \begin{threeparttable}
+  \caption{Demographic Prediction performance comparison by three evaluation metrics.}
+  \label{performance_comparison}
+    \begin{tabular}{ccccccc}
+    \toprule
+    \multirow{2}{*}{Method}&
+    \multicolumn{3}{c}{ G}&\multicolumn{3}{c}{ G}\cr
+    \cmidrule(lr){2-4} \cmidrule(lr){5-7}
+    &Precision&Recall&F1-Measure&Precision&Recall&F1-Measure\cr
+    \midrule
+    kNN&0.7324&0.7388&0.7301&0.6371&0.6462&0.6568\cr
+    F&0.7321&0.7385&0.7323&0.6363&0.6462&0.6559\cr
+    E&0.7321&0.7222&0.7311&0.6243&0.6227&0.6570\cr
+    D&0.7654&0.7716&0.7699&0.6695&0.6684&0.6642\cr
+    C&0.7435&0.7317&0.7343&0.6386&0.6488&0.6435\cr
+    B&0.7667&0.7644&0.7646&0.6609&0.6687&0.6574\cr
+    A&{\bf 0.8189}&{\bf 0.8139}&{\bf 0.8146}&{\bf 0.6971}&{\bf 0.6904}&{\bf 0.6935}\cr
+    \bottomrule
+    \end{tabular}
+    \end{threeparttable}
+\end{table}
+
+\renewcommand{\arraystretch}{1.2}
+\begin{figure}[tbp]
+\centering
+\centerline{\bf (a). CDR samples}
+\vspace{1.5mm}
+\begin{tabular}{|l|c|c|}
+\hline
+\cline{1-1}
+\underline{\textbf{record-id}} & \textbf{caller-id} & \textbf{callee-id} \\\hline 
+1                                              & \#user-1           & \#user-2           \\\hline
+2                                              & \#user-1           & \#user-4           \\\hline
+3                                              & \#user-2           & \#user-1           \\\hline
+4                                              & \#user3            & \#user-5\\\hline
+5                                              & \#user1            & \#user-2\\\hline
+\vdots                                             & \vdots           & \vdots\\\hline
+\end{tabular}
+ 
+\vspace{3mm}
+\centering
+\centerline{\bf (b). DTR samples}
+\vspace{1.5mm}
+\begin{tabular}{|l|c|c|c|}
+\hline
+\cline{1-1}
+\textbf{record-id} & \textbf{user-id} & \textbf{online-time} & \textbf{offline-time} \\\hline
+1    & \#user-1           & \#timestamp-1  & \#timestamp-2           \\\hline
+2    & \#user-2           & \#timestamp-3  & \#timestamp-4           \\\hline
+3    & \#user-2           & \#timestamp-5  & \#timestamp-6           \\\hline
+4    & \#user3            & \#timestamp-7  & \#timestamp-8           \\\hline
+\vdots & \vdots           & \vdots          &\vdots\\\hline
+\end{tabular}
+\vspace{1.5mm}
+\caption{CDR (Call Detail Records) and DTR (Data Traffic Records) samples.}
+\end{figure}
+\end{document}

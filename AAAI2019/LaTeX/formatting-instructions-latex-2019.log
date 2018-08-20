@@ -1,0 +1,351 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.26)  18 AUG 2018 11:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**formatting-instructions-latex-2019.tex
+(./formatting-instructions-latex-2019.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./aaai19.sty
+Conference Style for AAAI for LaTeX 2e -- version for the AAAI-19 conference
+\titlebox=\skip43
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./formatting-instructions-latex-2019.aux)
+\openout1 = `formatting-instructions-latex-2019.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 18.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 28.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 28.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 28.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 28.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+ [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 102.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 102.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 102.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 102.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+ [2]
+Underfull \hbox (badness 1776) in paragraph at lines 112--113
+\OT1/ptm/m/n/10 fit within the spec-i-fied height al-lowed, put \OMS/cmsy/m/n/1
+0 n\OT1/ptm/m/n/10 setlength
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 116.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 196.
+ [3]
+Underfull \hbox (badness 2035) in paragraph at lines 262--263
+\OT1/ptm/m/n/10 in-clude \OMS/cmsy/m/n/10 n\OT1/ptm/m/n/10 columnsep, \OMS/cmsy
+/m/n/10 n\OT1/ptm/m/n/10 topmargin, \OMS/cmsy/m/n/10 n\OT1/ptm/m/n/10 topskip, 
+\OMS/cmsy/m/n/10 n\OT1/ptm/m/n/10 textheight,
+ []
+
+[4]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 282.
+
+Underfull \hbox (badness 1264) in paragraph at lines 282--284
+ \OT1/ptm/b/n/10 Ob-tain-ing Type 1 Com-puter Mod-ern for L[]T[]X. \OT1/ptm/m/n
+/10 If
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 282--284
+\OT1/ptm/m/n/10 pa-per (you can-not use it for the text) you may need
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 315--318
+\OT1/ptm/m/n/10 If the ti-tle and au-thor in-for-ma-tion does not fit in the
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 341--344
+\OT1/ptm/m/n/10 The copy-right no-tice au-to-mat-i-cally ap-pears if you use
+ []
+
+[5]
+Underfull \hbox (badness 3209) in paragraph at lines 390--391
+ \OT1/ptm/b/n/10 Sec-tion Head-ings. \OT1/ptm/m/n/10 Sec-tions should be ar-ran
+ged and
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 393--394
+\OT1/ptm/m/n/10 ``Ac-knowl-edg-ments." This sec-tion in-cludes ac-knowl-edg-
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 396--397
+ \OT1/ptm/b/n/10 Ap-pen-dices. \OT1/ptm/m/n/10 Any ap-pen-dices fol-low the ac-
+knowl-edg-
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 399--400
+ \OT1/ptm/b/n/10 Ref-er-ences \OT1/ptm/m/n/10 The ref-er-ences sec-tion should 
+be la-beled
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+ \OT1/ptm/b/n/10 Low-Resolution Bitmaps. \OT1/ptm/m/n/10 You may not use low-
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 411--412
+\OT1/ptm/m/n/10 resolution (such as 72 dpi) screen-dumps and GIF
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+[]\OT1/ptm/m/n/10 Please note that you are re-quired to use
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 441--442
+\OMS/cmsy/m/n/10 n\OT1/ptm/m/n/10 bibliographystyle\OMS/cmsy/m/n/10 f\OT1/ptm/m
+/n/10 aaai\OMS/cmsy/m/n/10 g \OT1/ptm/m/n/10 for your ref-er-ences. You may
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 581--584
+\OT1/ptm/m/n/9 You have used trim and clip com-mands in your
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 581--584
+\OMS/cmsy/m/n/9 n\OT1/ptm/m/n/9 includegraphics state-ment. Please crop your gr
+aph-ics
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 581--584
+\OT1/ptm/m/n/9 ap-pro-pri-ately us-ing a stan-dard graph-ics pro-gram (not
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 620--623
+\OT1/ptm/m/n/9 You used \OMS/cmsy/m/n/9 n\OT1/ptm/m/n/9 usepackage\OMS/cmsy/m/n
+/9 f\OT1/ptm/m/n/9 geometry\OMS/cmsy/m/n/9 g\OT1/ptm/m/n/9 , which is a pack-ag
+e
+ []
+
+[8]
+Underfull \hbox (badness 3068) in paragraph at lines 645--648
+\OMS/cmsy/m/n/9 n\OT1/ptm/m/n/9 linespread al-ters aaai.sty. This com-mand (alo
+ng with
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 753--756
+\OT1/ptm/m/n/9 cap-tions, and/or sec-tion/subsection/subsubsections. These
+ []
+
+[9] [10]
+Underfull \hbox (badness 1028) in paragraph at lines 890--891
+\OT1/ptm/m/n/10 L[]T[]X is a dif-fi-cult pro-gram to mas-ter. If you've used
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 890--891
+\OT1/ptm/m/n/10 that soft-ware, and this doc-u-ment didn't help or some
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 890--891
+\OT1/ptm/m/n/10 2002/08/13) about ob-tain-ing cor-rect PS/PDF out-put on
+ []
+
+[11] (./formatting-instructions-latex-2019.aux) ) 
+Here is how much of TeX's memory you used:
+ 1745 strings out of 492995
+ 25473 string characters out of 6132704
+ 91251 words of memory out of 5000000
+ 5268 multiletter control sequences out of 15000+600000
+ 27721 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,10n,25p,936b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf
+-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
+urw/courier/ucrr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/time
+s/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.p
+fb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on formatting-instructions-latex-2019.pdf (11 pages, 132226 byte
+s).
+PDF statistics:
+ 65 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
