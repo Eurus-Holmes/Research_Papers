@@ -1,3 +1,7 @@
+# [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
+
+----------
+
 index | Title | Source | Notes |
 ------------ | ------------- | ------------ | ------------- |
 1 | *3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.md) |
@@ -22,10 +26,4 @@ index | Title | Source | Notes |
 20 | *Deep spatio-temporal features for multimodal emotion recognition* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Deep-spatio-temporal-features-for-multimodal-emotion-recognition.pdf) | TBD |
 21 | *Multimodal Sentiment Analysis using Hierarchical Fusion with Context Modeling* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Multimodal-Sentiment-Analysis-using-Hierarchical-Fusion-with-Context-Modeling.pdf) | TBD |
 22 | *SenticNet 5: Discovering Conceptual Primitives for Sentiment Analysis by Means of Context Embeddings* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SenticNet5-Discovering-Conceptual-Primitives-for-Sentiment-Analysis-by-Means-of-Context-Embeddings.pdf) | TBD |
-
-
-
-
-# [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
-
 
