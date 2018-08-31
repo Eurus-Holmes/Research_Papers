@@ -26,4 +26,5 @@ index | Title | Source | Notes |
 20 | *Deep spatio-temporal features for multimodal emotion recognition* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Deep-spatio-temporal-features-for-multimodal-emotion-recognition.pdf) | TBD |
 21 | *Multimodal Sentiment Analysis using Hierarchical Fusion with Context Modeling* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Multimodal-Sentiment-Analysis-using-Hierarchical-Fusion-with-Context-Modeling.pdf) | TBD |
 22 | *SenticNet 5: Discovering Conceptual Primitives for Sentiment Analysis by Means of Context Embeddings* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SenticNet5-Discovering-Conceptual-Primitives-for-Sentiment-Analysis-by-Means-of-Context-Embeddings.pdf) | TBD |
+23 | *Inferring Emotion from Conversational Voice Data: A Semi-Supervised Multi-Path Generative Neural Network Approach* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Inferring-Emotion-from-Conversational-Voice-Data-A-Semi-Supervised-Multi-Path-Generative-Neural-Network-Approach.pdf) | TBD |
 
