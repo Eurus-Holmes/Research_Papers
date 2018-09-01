@@ -29,4 +29,5 @@ index | Title | Source | Notes |
 21 | *Multimodal Sentiment Analysis using Hierarchical Fusion with Context Modeling* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Multimodal-Sentiment-Analysis-using-Hierarchical-Fusion-with-Context-Modeling.pdf) | TBD |
 22 | *SenticNet 5: Discovering Conceptual Primitives for Sentiment Analysis by Means of Context Embeddings* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SenticNet5-Discovering-Conceptual-Primitives-for-Sentiment-Analysis-by-Means-of-Context-Embeddings.pdf) | TBD |
 23 | *Inferring Emotion from Conversational Voice Data: A Semi-Supervised Multi-Path Generative Neural Network Approach* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Inferring-Emotion-from-Conversational-Voice-Data-A-Semi-Supervised-Multi-Path-Generative-Neural-Network-Approach.pdf) | TBD |
+24 | *Densely Connected CNN with Multi-scale Feature Attention for Text Classification* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Densely-Connected-CNN-with-Multi-scale-Feature-Attention-for-Text-Classification.pdf) | TBD |
 
