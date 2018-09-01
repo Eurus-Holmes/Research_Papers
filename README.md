@@ -1,7 +1,9 @@
 # [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
 
 ----------
+# [2018-2019 International Conferences in Artificial Intelligence, Computer Vision, Data Mining and Natural Language Processing](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html)
 
+----------
 index | Title | Source | Notes |
 ------------ | ------------- | ------------ | ------------- |
 1 | *3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.md) |
