@@ -1,9 +1,19 @@
-# [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
+# Conference List
 
+  - [AAAI](https://www.aaai.org/)
+  - [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/)
+  - [ICCV](https://dblp.uni-trier.de/db/conf/iccv/)
+  - [ICML](https://icml.cc/)
+  - [IJCAI](https://www.ijcai.org/)
+  - [NIPS](https://nips.cc/)
+  - [ACL](http://dblp.uni-trier.de/db/conf/acl/)
+  - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
+  - [NAACL](http://naacl.org/)
+  - [COLING](https://dblp.org/db/conf/coling/index)
+  
 ----------
-# [2018-2019 International Conferences in Artificial Intelligence, Computer Vision, Data Mining and Natural Language Processing](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html)
+# Paper List
 
-----------
 index | Title | Source | Notes |
 ------------ | ------------- | ------------ | ------------- |
 1 | *3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.md) |
@@ -34,3 +44,15 @@ index | Title | Source | Notes |
 26 | *Dynamic Sampling in Convolutional Neural Networks for Imbalanced Data Classification* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Dynamic-Sampling-in-Convolutional-Neural-Networks-for-Imbalanced-Data-Classification.pdf) | TBD |
 
 
+
+
+
+
+
+----------
+# [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
+
+----------
+# [2018-2019 International Conferences in Artificial Intelligence, Computer Vision, Data Mining and Natural Language Processing](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html)
+
+----------
