@@ -46,6 +46,7 @@ index | Title | Source | Notes |
 27 | *A systematic study of the class imbalance problem in convolutional neural networks* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/A-systematic-study-of-the-class-imbalance-problem-in-convolutional-neural-networks.pdf) | TBD |
 28 | *Learning Deep Representation for Imbalanced Classification* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Learning-Deep-Representation-for-Imbalanced-Classification.pdf) | [LMLE](http://mmlab.ie.cuhk.edu.hk/projects/LMLE.html) |
 29 | *Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Multimodal-Language-Analysis-in-the-Wild-CMU-MOSEI-Dataset-and-Interpretable-Dynamic-Fusion-Graph.pdf) | TBD |
+30 | *A Survey on Methods for Solving Data Imbalance Problem for Classification* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/A-Survey-on-Methods-for-Solving-Data-Imbalance-Problem-for-Classification.pdf) | TBD |
 
 
 
