@@ -60,6 +60,7 @@ index | Title | Source | Notes |
   - [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
   - [2018-2019 International Conferences in Artificial Intelligence, Computer Vision, Data Mining and Natural Language Processing](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html)
   - [AI Conference Deadlines](https://aideadlin.es/?sub=NLP,ML,CV,RO,SP)
+  - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
 
 ----------
 
