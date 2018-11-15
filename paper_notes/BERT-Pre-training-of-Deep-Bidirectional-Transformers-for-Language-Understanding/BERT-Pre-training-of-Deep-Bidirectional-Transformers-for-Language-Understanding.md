@@ -28,15 +28,15 @@
 
  - ***Task #1: Masked LM***
 *There are two downsides to such an approach. The first is that we are creating a mismatch between pre-training and fine- tuning, since the [MASK] token is never seen during fine-tuning. To mitigate this, we do not always replace “masked” words with the actual [MASK] token. Instead, the training data generator chooses 15% of tokens at random, e.g., in the sentence my dog is hairy it chooses hairy. It then performs the following procedure:*
-![3](https://leanote.com/api/file/getImage?fileId=5becc09fab6441233f001221)
-![4](https://leanote.com/api/file/getImage?fileId=5becc0c2ab64412530001251)
+![Figure 3](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/3.png)
+![Figure 4](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/4.png)
  - ***Task #2: Next Sentence Prediction***
 *Specifically, when choosing the sentences A and B for each pre-training example, 50% of the time B is the actual next sentence that follows A, and 50% of the time it is a random sentence from the corpus. For example:*
-![5](https://leanote.com/api/file/getImage?fileId=5becc10aab6441233f001239)
+![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/5.png)
  
 ### Pre-training Procedure
 
-![6](https://leanote.com/api/file/getImage?fileId=5becc138ab64412530001279)
+![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/6.png)
 
 *emmm...However...*
 
@@ -46,7 +46,7 @@
 
 ### Fine-tuning Procedure
 
-![7](https://leanote.com/api/file/getImage?fileId=5becc1edab644125300012cd)
+![Figure 7](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/7.png)
 
 ### Comparison of BERT and OpenAI GPT
 
@@ -60,7 +60,7 @@
 
 > *In this section, we present BERT fine-tuning results on 11 NLP tasks.*
 
-![8](https://leanote.com/api/file/getImage?fileId=5becc662ab6441233f0013fa)
+![Figure 8](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/8.png)
 
 ### GLUE Datasets
 
@@ -74,45 +74,45 @@
  - **RTE** *Recognizing Textual Entailment is a binary entailment task similar to MNLI, but with much less training data.*
  - **WNLI** *Winograd NLI is a small natural lan- guage inference dataset deriving from. The GLUE webpage notes that there are issues with the construction of this dataset, and every trained system that’s been submitted to GLUE has has performed worse than the 65.1 baseline accuracy of predicting the majority class. We therefore exclude this set out of fairness to OpenAI GPT. For our GLUE submission, we always predicted the majority class.*
 
-![9](https://leanote.com/api/file/getImage?fileId=5becc479ab6441233f00134a)
+![Figure 9](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/9.png)
 
 ### SQuAD v1.1
 
 > *The Standford Question Answering Dataset (SQuAD) is a collection of 100k crowdsourced question/answer pairs. Given a question and a paragraph from Wikipedia containing the answer, the task is to predict the answer text span in the paragraph. For example:*
-![10](https://leanote.com/api/file/getImage?fileId=5becc4e4ab644125300013d1)
+![Figure 10](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/10.png)
 
-![11](https://leanote.com/api/file/getImage?fileId=5becc502ab6441233f00136e)
+![Figure 11](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/11.png)
 
 ### Named Entity Recognition
 
 > *To evaluate performance on a token tagging task, we fine-tune BERT on the CoNLL 2003 Named Entity Recognition (NER) dataset. This dataset consists of 200k training words which have been annotated as Person, Organization, Location, Miscellaneous, or Other (non-named entity).*
 
-![12](https://leanote.com/api/file/getImage?fileId=5becc543ab6441233f001383)
+![Figure 12](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/12.png)
 
 ### SWAG
 
 > *The Situations With Adversarial Generations (SWAG) dataset contains 113k sentence-pair completion examples that evaluate grounded commonsense inference.*
 
-![13](https://leanote.com/api/file/getImage?fileId=5becc593ab6441233f0013a1)
+![Figure 13](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/13.png)
 
 ----------
 # Ablation Studies
 
 ### Effect of Pre-training Tasks
 
-![14](https://leanote.com/api/file/getImage?fileId=5becc6b8ab6441233f001436)
+![Figure 14](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/14.png)
 
 ### Effect of Model Size
 
-![15](https://leanote.com/api/file/getImage?fileId=5becc73cab6441233f001461)
+![Figure 15](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/15.png)
 
 ### Effect of Number of Training Steps
 
-![16](https://leanote.com/api/file/getImage?fileId=5becc762ab644125300014ce)
+![Figure 16](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/16.png)
 
 ### Feature-based Approach with BERT
 
-![17](https://leanote.com/api/file/getImage?fileId=5becc784ab6441233f00147d)
+![Figure 17](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/17.png)
 
 ----------
 # Conclusion
