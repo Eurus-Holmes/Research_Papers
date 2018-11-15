@@ -22,7 +22,7 @@
 
 ### Input Representation
 
-![2](https://leanote.com/api/file/getImage?fileId=5becbf9fab6441233f0011cb)
+![Figure 2](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/2.png)
 
 ### Pre-training Tasks
 
