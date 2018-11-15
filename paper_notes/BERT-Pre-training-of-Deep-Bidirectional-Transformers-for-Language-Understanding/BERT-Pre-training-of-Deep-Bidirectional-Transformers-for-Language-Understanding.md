@@ -18,7 +18,7 @@
 
 ### Model Architecture
 
-![1](https://leanote.com/api/file/getImage?fileId=5becbf50ab644125300011f1)
+![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/1.png)
 
 ### Input Representation
 
