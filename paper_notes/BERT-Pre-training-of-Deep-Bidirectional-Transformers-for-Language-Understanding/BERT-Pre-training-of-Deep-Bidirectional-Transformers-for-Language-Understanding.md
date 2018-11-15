@@ -72,7 +72,7 @@
  - **STS-B** *The Semantic Textual Similarity Bench-mark is a collection of sentence pairs drawn from news headlines and other sources. They were annotated with a score from 1 to 5 denoting how similar the two sentences are in terms of semantic meaning.*
  - **MRPC** *Microsoft Research Paraphrase Corpus consists of sentence pairs automatically extracted from online news sources, with human annotations for whether the sentences in the pair are semantically equivalent.*
  - **RTE** *Recognizing Textual Entailment is a binary entailment task similar to MNLI, but with much less training data.*
- - **WNLI** *Winograd NLI is a small natural lan- guage inference dataset deriving from. The GLUE webpage notes that there are issues with the construction of this dataset, and every trained system that’s been submitted to GLUE has has performed worse than the 65.1 baseline accuracy of predicting the majority class. We therefore exclude this set out of fairness to OpenAI GPT. For our GLUE submission, we always predicted the majority class.*
+ - **WNLI** *Winograd NLI is a small natural language inference dataset deriving from. The GLUE webpage notes that there are issues with the construction of this dataset, and every trained system that’s been submitted to GLUE has has performed worse than the 65.1 baseline accuracy of predicting the majority class. We therefore exclude this set out of fairness to OpenAI GPT. For our GLUE submission, we always predicted the majority class.*
 
 ![Figure 9](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding/images/9.png)
 
