@@ -1,16 +1,21 @@
 # Conference List
 
   - [AAAI](https://www.aaai.org/)
+  - [ACL](http://dblp.uni-trier.de/db/conf/acl/)
+  - [COLING](https://dblp.org/db/conf/coling/index)
   - [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/)
+  - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
   - [ICCV](https://dblp.uni-trier.de/db/conf/iccv/)
+  - [ICLR](https://iclr.cc/)
   - [ICML](https://icml.cc/)
   - [IJCAI](https://www.ijcai.org/)
-  - [NIPS](https://nips.cc/)
-  - [ACL](http://dblp.uni-trier.de/db/conf/acl/)
-  - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
   - [NAACL](http://naacl.org/)
-  - [COLING](https://dblp.org/db/conf/coling/index)
-  - [ICLR](https://iclr.cc/)
+  - [NIPS](https://nips.cc/)
+  
+  
+  
+  
+  
   
 ----------
 # Paper List
@@ -19,7 +24,7 @@ index | Title | Source | Notes |
 ------------ | ------------- | ------------ | ------------- |
 1 | *3-D Convolutional Recurrent Neural Networks with Attention Model for Speech Emotion Recognition* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.md)/[code](https://github.com/xuanjihe/speech-emotion-recognition) |
 2 | *Acoustic scene classification using parallel combination of lstm and cnn* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Acoustic%20scene%20classification%20using%20parallel%20combination%20of%20lstm%20and%20cnn.pdf) | TBD |
-3 | *Assessing State-of-the-Art Sentiment Models on State-of-the-Art Sentiment Datasets* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Assessing%20State-of-the-Art%20Sentiment%20Models%20on%20State-of-the-Art%20Sentiment%20Datasets.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets.md) |
+3 | *Assessing State-of-the-Art Sentiment Models on State-of-the-Art Sentiment Datasets* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Assessing%20State-of-the-Art%20Sentiment%20Models%20on%20State-of-the-Art%20Sentiment%20Datasets.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets/Assessing-State-of-the-Art-Sentiment-Models-on-State-of-the-Art-Sentiment-Datasets.md)/[code](https://github.com/jbarnesspain/sota_sentiment) |
 4 | *Attention-based LSTM for Aspect-level Sentiment Classification* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Attention-based%20LSTM%20for%20Aspect-level%20Sentiment%20Classification.pdf) | [code](http://coai.cs.tsinghua.edu.cn/hml/media/files/atae-lstm_uVgRmdb.rar) |
 5 | *Benchmarking Multimodal Sentiment Analysis* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Benchmarking%20Multimodal%20Sentiment%20Analysis.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/Benchmarking-Multimodal-Sentiment-Analysis/Benchmarking%20Multimodal%20Sentiment%20Analysis.md) |
 6 | *Context-Dependent Sentiment Analysis in User-Generated Videos* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Context-Dependent%20Sentiment%20Analysis%20in%20User-Generated%20Videos.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/Context-Dependent-Sentiment-Analysis-in-User-Generated-Videos/Context-Dependent%20Sentiment%20Analysis%20in%20User-Generated%20Videos.md) |
