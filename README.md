@@ -20,7 +20,7 @@
 ----------
 # Paper List
 
-index | Title | Source | Notes |
+index | Title | Source | Notes/Code |
 ------------ | ------------- | ------------ | ------------- |
 1 | *3-D Convolutional Recurrent Neural Networks with Attention Model for Speech Emotion Recognition* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.pdf) | [notes](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition/3-D-Convolutional-Recurrent-Neural-Networks-with-Attention-Model-for-Speech-Emotion-Recognition.md)/[code](https://github.com/xuanjihe/speech-emotion-recognition) |
 2 | *Acoustic scene classification using parallel combination of lstm and cnn* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Acoustic%20scene%20classification%20using%20parallel%20combination%20of%20lstm%20and%20cnn.pdf) | TBD |
