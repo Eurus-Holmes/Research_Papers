@@ -21,12 +21,14 @@
 ![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/1.png)
 
  - ***Early fusion***
-![2](https://leanote.com/api/file/getImage?fileId=5bfbc761ab644176aa00448f)
-![3](https://leanote.com/api/file/getImage?fileId=5bfbc70aab6441789a003d36)
+![Figure 2](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/2.png)
+
+![Figure 3](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/3.png)
+
  - ***Late Fusion***
-![4](https://leanote.com/api/file/getImage?fileId=5bfbc782ab644176aa004499)
+![Figure 4](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/4.png)
  - ***Parameters Sharing***
-![5](https://leanote.com/api/file/getImage?fileId=5bfbc799ab6441789a003d74)
+![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/5.png)
 
 ----------
 # Experiments and Results
@@ -38,7 +40,8 @@
  - ***CHiME-Home***
  
 ### *Hyperparameters*
-![6](https://leanote.com/api/file/getImage?fileId=5bfbc800ab6441789a003d8d)
+
+![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/6.png)
 
 ### *Baselines*
 
@@ -46,14 +49,17 @@
 
 ### *Results*
 
-![7](https://leanote.com/api/file/getImage?fileId=5bfbc9c1ab6441789a003e04)
+![Figure 7](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/7.png)
 
-![8](https://leanote.com/api/file/getImage?fileId=5bfbc9dcab644176aa004545)
+![Figure 8](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/8.png)
+
 > *Note: vanilla (no fusion), early fusion (EF), late fusion (LF) and hybrid (EF+LF)*
 
-![9](https://leanote.com/api/file/getImage?fileId=5bfbca3aab644176aa004563)
-![10](https://leanote.com/api/file/getImage?fileId=5bfbca4dab644176aa004569)
-![11](https://leanote.com/api/file/getImage?fileId=5bfbca9cab6441789a003e46)
+![Figure 9](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/9.png)
+
+![Figure 10](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/10.png)
+
+![Figure 11](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/11.png)
 
 ----------
 # Conclusion
