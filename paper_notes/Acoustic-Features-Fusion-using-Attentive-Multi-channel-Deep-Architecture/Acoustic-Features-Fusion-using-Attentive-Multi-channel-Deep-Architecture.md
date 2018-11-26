@@ -18,7 +18,7 @@
 ----------
 # Multi-Channel Deep Fusion
 
-![1](https://leanote.com/api/file/getImage?fileId=5bfbc6f2ab6441789a003d2f)
+![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Acoustic-Features-Fusion-using-Attentive-Multi-channel-Deep-Architecture/images/1.png)
 
  - ***Early fusion***
 ![2](https://leanote.com/api/file/getImage?fileId=5bfbc761ab644176aa00448f)
