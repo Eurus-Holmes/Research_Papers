@@ -72,6 +72,7 @@ index | Title | Source | Notes/Code |
   - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
   - [Arxiv](https://arxiv.org/)
   - [Gitxiv](http://www.gitxiv.com/)
+  - [State Of The Art.AI](https://www.stateoftheart.ai/)
 
 ----------
 
