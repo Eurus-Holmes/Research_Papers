@@ -14,7 +14,10 @@
   
   
   
-  
+
+
+
+
   
   
 ----------
@@ -63,6 +66,24 @@ index | Title | Source | Notes/Code |
 
 
 
+
+
+
+
+
+----------
+# Paper Writing Related
+
+  - [Overleaf](https://www.overleaf.com/)
+  - [Tables Generator](https://www.tablesgenerator.com/)
+  - [Codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn)
+  - [iLovePDF](https://www.ilovepdf.com/zh_cn)
+
+
+
+
+
+
 ----------
 # Related Links
 
@@ -74,11 +95,5 @@ index | Title | Source | Notes/Code |
   - [Gitxiv](http://www.gitxiv.com/)
   - [State Of The Art.AI](https://www.stateoftheart.ai/)
 
-----------
-# Paper Writing
 
-  - [Overleaf](https://www.overleaf.com/)
-  - [Tables Generator](https://www.tablesgenerator.com/)
-  - [Codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn)
-  - [iLovePDF](https://www.ilovepdf.com/zh_cn)
 
