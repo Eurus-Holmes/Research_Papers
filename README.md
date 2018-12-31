@@ -90,14 +90,19 @@ index | Title | Source | Notes/Code |
 # Related Links
 
   - [Google Scholar](https://scholar.google.com/)
+  - [Arxiv](https://arxiv.org/)
+  - [Gitxiv](http://www.gitxiv.com/)
+  - [PaperWeekly](https://www.paperweekly.site/)
+  - [State Of The Art.AI](https://www.stateoftheart.ai/)
+  - [Academia](https://www.academia.edu/)
   - [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
   - [2018-2019 International Conferences in Artificial Intelligence, Computer Vision, Data Mining and Natural Language Processing](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html)
   - [AI Conference Deadlines](https://aideadlin.es/?sub=NLP,ML,CV,RO,SP)
   - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
-  - [Arxiv](https://arxiv.org/)
-  - [Gitxiv](http://www.gitxiv.com/)
-  - [State Of The Art.AI](https://www.stateoftheart.ai/)
-  - [PaperWeekly](https://www.paperweekly.site/)
+  - [Synced](https://www.jiqizhixin.com/)
+  
+  
+  
 
 
 
