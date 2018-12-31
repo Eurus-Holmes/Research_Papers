@@ -96,6 +96,7 @@ index | Title | Source | Notes/Code |
   - [Arxiv](https://arxiv.org/)
   - [Gitxiv](http://www.gitxiv.com/)
   - [State Of The Art.AI](https://www.stateoftheart.ai/)
+  - [PaperWeekly](https://www.paperweekly.site/)
 
 
 
