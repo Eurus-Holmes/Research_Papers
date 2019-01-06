@@ -78,6 +78,7 @@ index | Title | Source | Notes/Code |
   - [Overleaf](https://www.overleaf.com/)
   - [Tables Generator](https://www.tablesgenerator.com/)
   - [Codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn)
+  - [LaTeX Handwritten](http://detexify.kirelabs.org/classify.html)
   - [iLovePDF](https://www.ilovepdf.com/zh_cn)
   - [Paper Writing Proofreading Tools Collection](http://blog.leanote.com/post/chenfeiyang/paper-writing)
 
