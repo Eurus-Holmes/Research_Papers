@@ -90,6 +90,7 @@ index | Title | Source | Notes/Code |
 # Related Links
 
   - [Google Scholar](https://scholar.google.com/)
+  - [Semantic Scholar](https://www.semanticscholar.org/)
   - [Arxiv](https://arxiv.org/)
   - [Gitxiv](http://www.gitxiv.com/)
   - [PaperWeekly](https://www.paperweekly.site/)
