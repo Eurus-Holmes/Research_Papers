@@ -77,6 +77,7 @@ index | Title | Source | Notes/Code |
 
   - [Overleaf](https://www.overleaf.com/)
   - [Tables Generator](https://www.tablesgenerator.com/)
+  - [Excel2Latex](https://ctan.org/tex-archive/support/excel2latex)
   - [Codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn)
   - [LaTeX Handwritten](http://detexify.kirelabs.org/classify.html)
   - [Draw.io](https://www.draw.io/)
