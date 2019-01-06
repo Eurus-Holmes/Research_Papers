@@ -79,6 +79,7 @@ index | Title | Source | Notes/Code |
   - [Tables Generator](https://www.tablesgenerator.com/)
   - [Codecogs](https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn)
   - [LaTeX Handwritten](http://detexify.kirelabs.org/classify.html)
+  - [Draw.io](https://www.draw.io/)
   - [iLovePDF](https://www.ilovepdf.com/zh_cn)
   - [Paper Writing Proofreading Tools Collection](http://blog.leanote.com/post/chenfeiyang/paper-writing)
 
