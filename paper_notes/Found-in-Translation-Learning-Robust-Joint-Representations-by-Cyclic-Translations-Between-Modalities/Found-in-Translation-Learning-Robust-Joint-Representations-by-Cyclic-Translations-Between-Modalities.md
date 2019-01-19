@@ -19,9 +19,9 @@
 ----------
 # Related Work
 
-![2](https://leanote.com/api/file/getImage?fileId=5c43339fab644154ed000f3d)
-![3](https://leanote.com/api/file/getImage?fileId=5c4333e9ab644152f9000f55)
-![4](https://leanote.com/api/file/getImage?fileId=5c433419ab644154ed000f41)
+![Figure 2](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/2.png))
+![Figure 3](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/3.png))
+![Figure 4](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/4.png))
 
 ----------
 # Proposed Approach
@@ -30,12 +30,12 @@
  - ***Learning Joint Representations***
  - ***Multimodal Cyclic Translation Network***
 
-![5](https://leanote.com/api/file/getImage?fileId=5c433486ab644154ed000f44)
+![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/5.png))
 
  - ***Coupled Translation-Prediction Objective***
  - ***Hierarchical MCTN for Three Modalities***
 
-![6](https://leanote.com/api/file/getImage?fileId=5c4334c0ab644152f9000f64)
+![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/6.png))
 
 ----------
 # Experimental Setup
@@ -50,19 +50,19 @@
 
  - ***Comparison with Existing Work***
 
-![7](https://leanote.com/api/file/getImage?fileId=5c433512ab644152f9000f65)
-![8](https://leanote.com/api/file/getImage?fileId=5c43351fab644154ed000f58)
+![Figure 7](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/7.png))
+![Figure 8](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/8.png))
 
  - ***Adding More Modalities***
 
-![9](https://leanote.com/api/file/getImage?fileId=5c4335abab644154ed000f5e)
-![10](https://leanote.com/api/file/getImage?fileId=5c4335bbab644154ed000f60)
-![11](https://leanote.com/api/file/getImage?fileId=5c4335d0ab644152f9000f6b)
+![Figure 9](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/9.png))
+![Figure 10](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/10.png))
+![Figure 11](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/11.png))
 
   - ***Ablation Studies***
 
-![12](https://leanote.com/api/file/getImage?fileId=5c4335edab644152f9000f6e)
-![13](https://leanote.com/api/file/getImage?fileId=5c433605ab644152f9000f70)
+![Figure 12](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/12.png))
+![Figure 13](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/13.png))
 
 ----------
 # Conclusion
