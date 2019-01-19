@@ -14,7 +14,7 @@
 
 > *Existing prior work learns joint representations using multiple modalities as input (Liang et al. 2018; Morency, Mihalcea, and Doshi 2011; Zadeh et al. 2016). However, these joint representations also regain all modalities at test time, making them sensitive to noisy or missing modalities at test time (Tran et al. 2017; Cai et al. 2018).*
 
-![1](https://leanote.com/api/file/getImage?fileId=5c433340ab644154ed000f3a)
+![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Found-in-Translation-Learning-Robust-Joint-Representations-by-Cyclic-Translations-Between-Modalities/images/1.png))
 
 ----------
 # Related Work
