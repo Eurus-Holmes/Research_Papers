@@ -1,0 +1,292 @@
+@charset "UTF-8";
+.txp_mod_barrage{position:relative;background:#26262b;height:50px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+.txp_mod_barrage .txp_none{display:none!important}
+.txp_mod_barrage .txp_svg_icon{display:inline-block;vertical-align:top}
+.txp_mod_barrage .txp_btn_drag{display:none}
+.txp_mod_barrage .txp_barrage_form{position:relative;display:block;width:auto;height:32px;margin-top:8px;margin-left:100px;margin-right:118px;background-color:#1e1e20;transition:width ease .15s,margin-left ease .15s;border-radius:17px}
+.txp_mod_barrage .txp_barrage_form .txp_inp_text{position:relative;z-index:1;display:block;zoom:1;border:none;width:100%;padding:6px 10px;font-size:14px;line-height:20px;background:0 0;color:#ccc;border-radius:17px 0 0 17px;box-sizing:border-box;overflow:hidden}
+.txp_mod_barrage .txp_barrage_form .txp_inp_text:focus{outline:0;color:#fff}
+.txp_mod_barrage .txp_barrage_form_nohotbtn{margin-right:10px}
+.txp_mod_barrage .txp_barrage_inp{position:absolute;left:0;right:115px;border-radius:16px 0 0 16px;overflow:hidden;height:32px;padding-right:52px}
+.txp_mod_barrage .txp_barrage_inp_whole{padding-right:0;right:66px}
+.txp_mod_barrage .txp_barrage_star{position:absolute;height:32px;right:118px}
+.txp_mod_barrage .txp_btn_submit{position:absolute;right:0;top:0;width:66px;font-size:14px;line-height:32px;height:32px;color:#ccc;border:none;cursor:pointer;border-radius:0 16px 16px 0;background-color:#515155;outline:0}
+.txp_mod_barrage .txp_btn_submit:hover{color:#fff;background:#ff6428;background:-webkit-linear-gradient(left,#ff850b 0,#ff5945 100%);background:linear-gradient(to right,#ff850b 0,#ff5945 100%)}
+.txp_mod_barrage .txp_btn_fonts{right:80px}
+.txp_mod_barrage .txp_btn_barrage_list{display:inline-block;margin:8px 0 0 0;padding:0 6px 0 6px;vertical-align:top;height:32px;line-height:32px;background-color:#515155;color:#ccc;border:none;text-decoration:none;cursor:pointer;overflow:hidden;white-space:nowrap;border-radius:16px;position:absolute;text-align:right;font-size:0;right:10px;top:0}
+.txp_mod_barrage .txp_btn_barrage_list .txp_icon_text{font-size:12px}
+.txp_mod_barrage .txp_btn_barrage_list .arrow_next_xs{position:absolute;right:8px;top:10px}
+.txp_mod_barrage .txp_hl{color:#ff6428}
+.txp_mod_barrage .txp_barrage_avatar_list{position:relative;display:inline-block;vertical-align:top;padding-top:2px}
+.txp_mod_barrage .txp_barrage_avatar_list img.txp_barrage_avatar:nth-child(2){margin-left:-16px}
+.txp_mod_barrage .txp_barrage_avatar{width:24px;height:24px;margin:0;border-radius:14px;border:2px #515155 solid;vertical-align:top;position:relative;z-index:1}
+.txp_mod_barrage_live .txp_barrage_form{margin-right:10px;margin-left:70px}
+.txp_mod_barrage .txp_svg_icon path,.txp_mod_barrage .txp_svg_icon use{fill:currentColor}
+.txp_barrage_switch{position:absolute;left:10px;display:inline-block;margin-right:40px;text-align:left;width:50px;height:24px;line-height:24px;font-size:12px;vertical-align:top;top:13px;border-radius:12px;background-color:#1e1e22;cursor:pointer}
+.txp_barrage_switch .txp_btn_text{display:inline-block;color:#fff;margin-left:24px}
+.txp_barrage_switch .txp_btn_toggle{width:6px;height:6px;position:absolute;left:12px;top:9px;background-color:#67676b;border-radius:6px;display:inline-block;box-sizing:content-box;-webkit-transition:background-color ease .15s;transition:background-color ease .15s}
+.txp_barrage_switch.txp_open .txp_btn_text{color:#ff6428}
+.txp_barrage_switch.txp_open .txp_btn_toggle{left:9px;top:6px;background-color:#ff6428;border:3px #4b2c24 solid}
+.txp_mod_barrage .txp_btn_face,.txp_mod_barrage .txp_btn_fonts{position:absolute;right:73px;top:0;cursor:pointer;color:#666;text-decoration:none;z-index:2}
+.txp_mod_barrage .txp_btn_fonts{right:95px}
+.txp_mod_barrage .txp_btn_type{color:#666;cursor:pointer;text-decoration:none}
+.txp_barrage_form .txp_btn_type{position:absolute;left:-28px;top:0}
+.txp_mod_barrage .txp_btn_face:hover,.txp_mod_barrage .txp_btn_fonts:hover,.txp_mod_barrage .txp_btn_type:hover{color:#ff6428}
+.txp_mod_barrage .txp_icon{display:inline-block;width:20px;height:20px;vertical-align:top;margin-top:6px}
+.txp_mod_barrage .txp_icon_arrow_next{position:relative;width:10px;height:10px;top:5px}
+.txp_mod_barrage .txp_svg_icon_arrow_next{width:10px;height:10px}
+.txp_mod_barrage .txp_btn_barrage_list:hover{background-color:#585858}
+.txp_mod_barrage .txp_btn_barrage_list:hover .txp_barrage_avatar{border-color:#585858}
+.txp_mod_barrage .txp_btn_submit.txp_disabled,.txp_mod_barrage .txp_btn_submit.txp_disabled:hover{opacity:.6;right:-1px;cursor:default;background:#414141}
+.txp_barrage_login,.txp_barrage_tips{position:absolute;top:0;left:0;right:0;padding-left:10px;text-align:left;font-size:12px;line-height:32px;overflow:hidden;cursor:pointer;border-radius:16px 0 0 16px;color:#666}
+.txp_barrage_login .txp_link,.txp_barrage_tips .txp_link{padding-right:2px;color:#ff6428}
+.txp_barrage_login .txp_link:hover,.txp_barrage_tips .txp_link:hover{color:#ff5945}
+.txp_barrage_login{z-index:1}
+.x_mod_bubble{right:0;bottom:35px}
+.txp_mod_barrage{font-size:0;zoom:1;text-align:right}
+.txp_mod_barrage:after,.txp_mod_barrage:before{content:'';display:table}
+.txp_mod_barrage:after{clear:both}
+.txp_html_fullscreen #mod_barrage_container,.txp_html_fullscreen .mod_action,.txp_html_fullscreen .mod_barrage_container{position:initial}
+.txp_html_fullscreen .txp_mod_barrage,.txp_html_fullscreen .txp_mod_barrage *{visibility:visible}
+.container_short .txp_mod_barrage,.player_container .txp_mod_barrage{position:absolute;background:0 0;right:0;top:0}
+.txp_html_fullscreen .player_container .txp_mod_barrage,.txp_html_fullscreen .txp_mod_barrage{opacity:.7;background-color:rgba(0,0,0,.7);width:80%!important;max-width:1280px;transform:translate(-50%,0);height:56px;border-radius:28px;left:50%;position:fixed;z-index:0;top:inherit;bottom:67px}
+.txp_html_fullscreen .player_container .txp_mod_barrage:hover,.txp_html_fullscreen .txp_mod_barrage:hover{opacity:1}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_switch,.txp_html_fullscreen .player_container .txp_mod_barrage .txp_btn_barrage_list,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_switch,.txp_html_fullscreen .txp_mod_barrage .txp_btn_barrage_list{display:none}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_inp,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_inp{height:40px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form{background-color:rgba(30,30,32,.7);left:8px!important;right:84px!important;height:40px;border-radius:20px;font-size:16px;width:auto!important;position:absolute!important;margin-left:32px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_barrage_login,.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_barrage_tips,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_barrage_login,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_barrage_tips{line-height:40px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_barrage_inp,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_barrage_inp{height:40px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_inp_text,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_inp_text{height:40px;line-height:40px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_btn_fonts,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_btn_fonts{right:125px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_btn_face,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_btn_face{right:103px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_icon,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_icon{margin-top:10px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_btn_type,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_btn_type{left:initial;right:-32px;top:2px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_btn_submit,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_btn_submit{height:40px;width:96px;line-height:40px;font-size:18px;border-radius:0 20px 20px 0}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_popup_barrage,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_popup_barrage{bottom:50px;right:80px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_popup_barrage_text,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_popup_barrage_text{bottom:50px;right:104px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_popup_barrage_type,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_popup_barrage_type{left:initial;right:-54px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_popup_barrage_type .txp_popup_barrage_triangle,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_popup_barrage_type .txp_popup_barrage_triangle{left:initial}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_barrage_star,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_barrage_star{height:40px;right:138px}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_btn_drag,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_btn_drag{display:block;position:absolute;right:-60px;top:2px;cursor:pointer;color:#666;text-decoration:none}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_btn_drag:hover,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_btn_drag:hover{color:#ff6428}
+.txp_html_fullscreen .player_container .txp_mod_barrage .txp_barrage_form .txp_btn_drag .txp_icon,.txp_html_fullscreen .txp_mod_barrage .txp_barrage_form .txp_btn_drag .txp_icon{width:20px;height:20px}
+.txp_html_fullscreen .txp_mod_barrage.txp_focus .txp_barrage_form{margin-left:0;width:auto!important}
+.txp_html_fullscreen.txp_html_barrage_on .mod_action{visibility:hidden}
+.lte_ie8 .txp_mod_barrage svg{visibility:hidden}
+.lte_ie8 .txp_mod_barrage .txp_icon_arrow_next,.lte_ie8 .txp_mod_barrage .txp_icon_drag,.lte_ie8 .txp_mod_barrage .txp_icon_face,.lte_ie8 .txp_mod_barrage .txp_icon_fonts,.lte_ie8 .txp_mod_barrage .txp_icon_type{background-image:url(/tencentvideo/txp/style/img/sprite/icon_txp_barrage.png);background-repeat:no-repeat}
+.lte_ie8 .txp_mod_barrage .txp_icon_type{background-position:0 -136px}
+.lte_ie8 .txp_mod_barrage .txp_icon_fonts{background-position:0 -80px}
+.lte_ie8 .txp_mod_barrage .txp_icon_face{background-position:0 -50px}
+.lte_ie8 .txp_mod_barrage .txp_icon_drag{background-position:0 -20px}
+.lte_ie8 .txp_mod_barrage .icon_arrow_next{background-position:0 0}
+*{margin:0;padding:0}
+li{list-style:none}
+.none{display:none!important}
+.txp_popup_barrage{position:absolute;text-align:left;border-radius:5px 5px 0 0;font-family:PingFangSC-Regular,Tahoma,Microsoft Yahei,Arial,Hiragino Sans GB;z-index:3000;color:#999;font-size:14px;right:41px;bottom:32px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+.txp_popup_barrage .txp_icon{width:24px;height:24px;margin:0}
+.txp_popup_barrage .txp_btn{width:24px;height:24px;position:absolute;top:50%;margin-top:-12px;z-index:2;cursor:pointer}
+.txp_popup_barrage .txp_btn svg{pointer-events:none;fill:#9b9d9d}
+.txp_popup_barrage .txp_btn:hover .txp_icon{fill:#ff6e0b}
+.txp_popup_barrage .txp_btn_prev{left:0}
+.txp_popup_barrage .txp_btn_next{right:0}
+.txp_popup_barrage[data-status="0"] .txp_popup_barrage_inner{height:100px}
+.txp_popup_barrage[data-status="0"] .txp_popup_barrage_inner_scroll{left:0}
+.txp_popup_barrage[data-status="1"] .txp_popup_barrage_inner{height:200px}
+.txp_popup_barrage[data-status="1"] .txp_popup_barrage_inner_scroll{left:-410px}
+.txp_popup_barrage.hide .txp_btn{display:none}
+.txp_popup_barrage.hide .txp_popup_barrage_inner{height:0}
+.txp_popup_barrage_emoji{width:410px;height:200px}
+.txp_popup_barrage_type{left:-54px;bottom:40px}
+.txp_popup_barrage .txp_iframe_mask{position:absolute;z-index:1;width:100%;height:100%;border-radius:5px;opacity:0;filter:alpha(opacity=0)}
+.txp_popup_barrage_inner{position:relative;background-color:#28292d;background-color:rgba(40,41,45,.93);box-shadow:0 1px 6px 0 rgba(0,0,0,.5);margin:0 24px;z-index:2;font-size:0;width:410px;overflow:hidden;-webkit-transition:height .4s ease-in;-moz-transition:height .4s ease-in;-ms-transition:height .4s ease-in;transition:height .4s ease-in}
+.txp_popup_barrage_inner_scroll{width:820px;position:relative;-webkit-transition:left .5s;-moz-transition:left .5s;-ms-transition:left .5s;transition:left .5s}
+.txp_popup_barrage_inner_scroll .txp_popup_barrage_emoji,.txp_popup_barrage_inner_scroll .txp_popup_barrage_text{display:inline-block;vertical-align:top}
+.txp_popup_barrage .txp_popup_barrage_hd{position:relative;text-align:right;padding:8px 20px;overflow:hidden}
+.txp_popup_barrage_bd{height:164px}
+.txp_popup_barrage .txp_popup_barrage_title{font-size:14px;color:#999}
+.txp_popup_barrage .txp_popup_barrage_title .txp_list_item{float:left;margin-right:30px;list-style:none;cursor:pointer}
+.txp_popup_barrage .txp_popup_barrage_title .txp_current{color:#ff6428}
+.txp_popup_barrage .txp_link{font-size:14px;color:#ff6428;text-decoration:none;cursor:pointer}
+.txp_popup_barrage .txp_link:hover{color:#ff2424}
+.txp_popup_barrage .x_mod_bd{position:relative}
+.txp_popup_barrage .txp_bubble_list:after,.txp_popup_barrage .txp_bubble_list:before{content:'';display:table}
+.txp_popup_barrage .txp_bubble_list:after{clear:both}
+.txp_popup_barrage .txp_scroll_wrap{position:relative;*zoom:1;list-style:none;max-height:135px;_height:150px;margin-left:2px;font-size:0;overflow-y:auto;overflow-x:hidden;transform:translateZ(0);padding-top:16px;margin-right:9px;-webkit-overflow-scrolling:touch}
+.txp_popup_barrage .txp_scroll_wrap{position:relative;zoom:1;scrollbar-base-color:#222225;scrollbar-face-color:#4c4c4c;scrollbar-arrow-color:#000;scrollbar-3dlight-color:#4c4c4c;scrollbar-highlight-color:#4c4c4c;scrollbar-shadow-color:#4c4c4c;scrollbar-darkshadow-color:#4c4c4c;scrollbar-track-color:#333338}
+.txp_popup_barrage .txp_scroll_wrap .scroll_wrap_inner{position:relative;height:100%;overflow:auto}
+.txp_popup_barrage .txp_scroll_wrap .mod_playlist{margin-bottom:10px}
+.txp_popup_barrage .txp_scroll_wrap .mb0{margin-bottom:0}
+.txp_popup_barrage .txp_scroll_wrap::-webkit-scrollbar{width:5px;background:#333338}
+.txp_popup_barrage .txp_scroll_wrap::-webkit-scrollbar-track-piece{background:0 0}
+.txp_popup_barrage .txp_scroll_wrap::-webkit-scrollbar-button{display:none}
+.txp_popup_barrage .txp_scroll_wrap::-webkit-scrollbar-thumb{background:#555;border-radius:5px}
+.txp_bubble_list .txp_list_item{position:relative;display:inline-block;margin:0 0 10px 16px;height:34px;width:161px;border-radius:7px;border:2px solid transparent;cursor:pointer}
+.txp_bubble_list .txp_list_item img{display:inline-block;position:absolute;bottom:0;left:0;width:161px}
+.txp_bubble_list .txp_current img{border-radius:6px}
+.txp_bubble_list .txp_list_item .txp_barrage_icon_slted{display:none;position:absolute;top:2px;left:2px;z-index:1;width:9px;height:7px;overflow:hidden;width:8px;height:6px;background-image:url(/tencentvideo/txp/style/img/sprite/txp_barrage_set.png);background-position:0 -196px}
+.txp_bubble_list .txp_current{border:2px solid #ff6428}
+.txp_bubble_list .txp_current .txp_barrage_icon_slted{display:inline-block}
+.txp_popup_barrage .txp_emoticon_list{color:#eaeaea;line-height:30px;padding-left:20px;padding-top:12px}
+.txp_popup_barrage .txp_emoticon_list li{font-size:14px;cursor:pointer}
+.txp_popup_barrage .txp_emoticon_list .txp_list_item:hover{color:#ff6428}
+.txp_popup_barrage .txp_emoticon_list .txp_current{color:#ff6428}
+.txp_popup_barrage_text{width:410px;height:100px}
+.txp_barrage_settings{position:relative;overflow:hidden;padding:16px 0 16px 70px;border-bottom:1px #2c2c31 solid;margin:0 20px;font-size:14px;box-sizing:content-box}
+.txp_barrage_settings_title{position:absolute;left:0;top:16px}
+.txp_popup_barrage_text .txp_barrage_settings{padding:0 0 0 28px;margin:16px 0 0;width:168px;display:inline-block;vertical-align:top;border-bottom:0}
+.txp_popup_barrage_text .txp_barrage_settings:first-child{border-right:1px #393a3d solid}
+.txp_popup_barrage_text .txp_barrage_settings_title{position:static;line-height:1}
+.txp_barrage_settings_color{margin-right:-12px;overflow:hidden;font-size:0}
+.txp_barrage_settings_color .txp_list_item{display:inline-block;cursor:pointer;margin-right:12px;margin-top:8px}
+.txp_barrage_settings_color .txp_list_item span{width:16px;height:16px;border-radius:16px;margin:2px;display:block;opacity:.8;box-sizing:content-box}
+.txp_barrage_settings_color .txp_list_item:hover span{opacity:1}
+.txp_barrage_settings_color .txp_current span{border:2px rgba(255,92,56,.6) solid;margin:0;opacity:1}
+.txp_barrage_mode_title{font-size:12px}
+.txp_barrage_mode{overflow:hidden;font-size:0;margin-right:-11px;margin-top:8px}
+.txp_barrage_mode .txp_list_item{display:inline-block;margin-right:11px;text-align:center;cursor:pointer}
+.txp_barrage_mode .txp_barrage_mode_box{width:47px;height:32px;position:relative;margin:0 0 2px 0;overflow:hidden}
+.txp_barrage_mode .txp_barrage_mode_box:after{width:38px;height:24px;content:'';display:block;border:2px #515155 solid;border-radius:4px;position:absolute;left:0;top:0}
+.txp_barrage_mode .txp_barrage_mode_box .txp_barrage_mode_line{display:block;width:18px;height:2px;background-color:#515155;margin-left:12px;margin-top:4px}
+.txp_barrage_mode .txp_barrage_mode_box .txp_barrage_mode_line1{margin-top:6px}
+.txp_barrage_mode .txp_barrage_mode_scroll .txp_barrage_mode_line1{margin-left:12px}
+.txp_barrage_mode .txp_barrage_mode_scroll .txp_barrage_mode_line2{margin-left:6px}
+.txp_barrage_mode .txp_barrage_mode_scroll .txp_barrage_mode_line3{margin-left:18px;width:8px}
+.txp_barrage_mode .txp_barrage_mode_top .txp_barrage_mode_line2{width:10px;margin-left:16px}
+.txp_barrage_mode .txp_barrage_mode_bottom .txp_barrage_mode_line1{margin-top:14px;width:10px;margin-left:16px}
+.txp_barrage_mode .txp_current .txp_barrage_mode_box:after{border:0;width:42px;height:28px;background-image:url(/tencentvideo/txp/style/img/sprite/txp_barrage_set.png);background-position:0 0;background-repeat:no-repeat}
+.txp_barrage_mode .txp_current .txp_barrage_mode_box:before{content:'';display:block;position:absolute;right:0;bottom:0;width:14px;height:14px;background-image:url(/tencentvideo/txp/style/img/sprite/txp_barrage_set.png);background-position:0 -172px;background-repeat:no-repeat}
+.txp_barrage_mode .txp_current .txp_barrage_mode_line{background-color:#999}
+.txp_barrage_mode .txp_current .txp_barrage_mode_title{color:#999}
+.txp_barrage_mode .txp_barrage_mode_box:hover:after{border-color:#999}
+.txp_barrage_mode .txp_barrage_mode_box:hover .txp_barrage_mode_line{background-color:#999}
+.txp_barrage_mode_block{margin-right:-26px;margin-top:0}
+.txp_barrage_mode_block .txp_list_item{margin-right:26px}
+.txp_barrage_mode_block .txp_barrage_mode_box{width:62px;height:46px}
+.txp_barrage_mode_block .txp_barrage_mode_box:after{width:56px;height:40px}
+.txp_barrage_mode_block .txp_barrage_mode_box .txp_barrage_mode_line{width:28px;margin-top:8px}
+.txp_barrage_mode_block .txp_barrage_mode_scroll .txp_barrage_mode_line1{margin-left:18px}
+.txp_barrage_mode_block .txp_barrage_mode_scroll .txp_barrage_mode_line2{margin-left:9px}
+.txp_barrage_mode_block .txp_barrage_mode_scroll .txp_barrage_mode_line3{margin-left:16px}
+.txp_barrage_mode_block .txp_barrage_mode_top .txp_barrage_mode_line2{width:18px}
+.txp_barrage_mode_block .txp_barrage_mode_bottom .txp_barrage_mode_line1{margin-top:23px;width:18px}
+.txp_barrage_mode_block .txp_current .txp_barrage_mode_box:after{width:60px;height:44px;background-image:url(/tencentvideo/txp/style/img/sprite/txp_barrage_set.png);background-position:0 -38px}
+.txp_barrage_mode_block .txp_current .txp_barrage_mode_box:before{width:14px;height:14px;background-image:url(/tencentvideo/txp/style/img/sprite/txp_barrage_set.png);background-position:0 -148px}
+.txp_barrage_settings_checkbox{cursor:pointer;padding-left:0;border-bottom:0}
+.txp_barrage_settings_checkbox .txp_checkbox{display:inline-block;width:12px;height:12px;border:1px #999 solid;border-radius:7px;margin-right:6px;cursor:pointer;position:relative;top:2px}
+.txp_barrage_settings_checkbox .txp_checkbox:hover{border-color:#ff5c38}
+.txp_barrage_settings_checkbox .txp_checkbox_selected{width:14px;height:14px;background-image:url(/tencentvideo/txp/style/img/sprite/txp_barrage_set.png);background-position:0 -172px;border:0}
+.txp_popup_barrage_type .txp_barrage_settings{line-height:20px;width:225px}
+.txp_popup_barrage_type .txp_popup_barrage_inner{width:auto;height:auto;margin:0}
+.txp_barrage_progress{height:20px;font-size:0}
+.txp_barrage_progress .txp_barrage_progress_value{display:inline-block;font-size:12px;position:absolute;right:0;top:16px}
+.txp_popup_barrage_text .txp_barrage_settings_checkbox{padding-left:0}
+.txp_barrage_progress_bar{width:180px;height:4px;margin:8px 0;background-color:#222225;border-radius:2px;position:relative;cursor:pointer}
+.txp_barrage_progress_bar:before{content:'';display:block;width:100%;height:30px;position:absolute;left:0;top:-13px}
+.txp_barrage_progress_bar .txp_barrage_progress_play{background-color:#ff5945;height:4px;position:absolute;left:0;top:0;border-radius:2px;cursor:pointer}
+.txp_barrage_progress_bar .txp_barrage_progress_handler{width:12px;height:12px;border-radius:6px;position:absolute;top:-4px;margin-left:-6px;background-color:#ff5945;cursor:pointer}
+.txp_barrage_progress_bar .txp_barrage_progress_handler:hover:after{content:'';display:block;width:20px;height:20px;border-radius:10px;background-color:#ff5945;opacity:.2;position:absolute;left:-4px;top:-4px}
+.txp_popup_barrage_type{width:335px;height:auto}
+.txp_popup_barrage_type .txp_barrage_progress_bar,.txp_popup_barrage_type .txp_barrage_settings_title{display:inline-block}
+.txp_popup_barrage_type .txp_list_item{margin-right:18px}
+.lte_ie8 svg{display:none}
+.lte_ie8 .txp_popup_barrage .txp_btn_next,.lte_ie8 .txp_popup_barrage .txp_btn_prev{width:12px;height:18px;background-image:url(/tencentvideo/txp/style/img/sprite/txp_barrage_set.png);background-position:0 -92px}
+.lte_ie8 .txp_popup_barrage .txp_btn_next{background-position:0 -120px}
+@-webkit-keyframes txp_barrage{
+0%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}
+90%{opacity:1}
+100%{opacity:0;-webkit-transform:translateX(-2800px);transform:translateX(-2800px)}
+}
+@keyframes txp_barrage{
+0%{opacity:1;-webkit-transform:translateX(0);transform:translateX(0)}
+90%{opacity:1}
+100%{opacity:0;-webkit-transform:translateX(-2800px);transform:translateX(-2800px)}
+}
+@-webkit-keyframes txp_barrage_plusone{
+0%{-webkit-transform:translateY(0);transform:translateY(0);opacity:1}
+100%{-webkit-transform:translateY(-40px);transform:translateY(-40px);opacity:0}
+}
+@keyframes txp_barrage_plusone{
+0%{-webkit-transform:translateY(0);transform:translateY(0);opacity:1}
+100%{-webkit-transform:translateY(-40px);transform:translateY(-40px);opacity:0}
+}
+@-webkit-keyframes txp_barrage_star{
+0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}
+50%{-webkit-transform:rotate(180deg) scale(1.1);transform:rotate(180deg) scale(1.1)}
+100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}
+}
+@keyframes txp_barrage_star{
+0%{-webkit-transform:rotate(0) scale(1);transform:rotate(0) scale(1)}
+50%{-webkit-transform:rotate(180deg) scale(1.1);transform:rotate(180deg) scale(1.1)}
+100%{-webkit-transform:rotate(360deg) scale(1);transform:rotate(360deg) scale(1)}
+}
+@-webkit-keyframes txp_barrage_item_star_show{
+0%{opacity:0}
+100%{opacity:1}
+}
+@keyframes txp_barrage_item_star_show{
+0%{opacity:0}
+100%{opacity:1}
+}
+@-webkit-keyframes txp_barrage_item_star{
+0%{top:200px}
+100%{top:15px}
+}
+@keyframes txp_barrage_item_star{
+0%{top:200px}
+100%{top:15px}
+}
+@keyframes txp_barrage_item_show{
+0%{opacity:0}
+5%{opacity:1}
+95%{opacity:1}
+100%{opacity:0}
+}
+@-webkit-keyframes txp_barrage_item_show{
+0%{opacity:0}
+5%{opacity:1}
+95%{opacity:1}
+100%{opacity:0}
+}
+.txp_barrage{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;-webkit-transform:translateZ(0);transform:translateZ(0);text-overflow:ellipsis;pointer-events:none}
+.txp_barrage_item{position:absolute;top:20px;left:0;background-color:rgba(255,255,255,.01);padding:4px 4px;font-size:22px;line-height:24px;white-space:nowrap;text-shadow:0 0 2px rgba(0,0,0,.8),0 1px 0 rgba(0,0,0,.8),0 0 2px rgba(0,0,0,.8),0 0 1px rgba(0,0,0,.8);cursor:pointer;pointer-events:auto;stroke-width:1px;stroke:rgba(0,0,0,.5)}
+.txp_barrage_item .txp_text{display:inline-block;max-width:680px;overflow:hidden;text-overflow:ellipsis;vertical-align:top}
+.txp_barrage_item .txp_img{display:inline-block;vertical-align:top;width:auto;height:28px}
+.txp_barrage_item_bottom,.txp_barrage_item_top{position:absolute;padding:4px 4px;left:50%;transform:translate(-50%,0);top:20px;font-size:24px;line-height:24px;white-space:nowrap;text-shadow:0 0 1px #000;stroke-width:1px;stroke:rgba(0,0,0,.5);cursor:pointer;pointer-events:auto;-webkit-backface-visibility:hidden;backface-visibility:hidden;width:auto;text-align:center;opacity:0;pointer-events:auto}
+.txp_barrage_item_bottom.txp_animate,.txp_barrage_item_top.txp_animate{-webkit-animation:txp_barrage_item_show 5s ease both;animation:txp_barrage_item_show 5s ease both}
+.txp_barrage_item_top{top:20px}
+.txp_barrage_item_bottom{top:initial;bottom:24%}
+.txp_barrage_item_bottom2{margin-bottom:40px}
+.txp_svg_icon_like{width:20px;height:20px;fill:currentColor}
+.txp_icon_like{width:20px;height:20px}
+.txp_barrage_hide_bottom .txp_barrage_item_bottom,.txp_barrage_hide_roll .txp_barrage_item,.txp_barrage_hide_top .txp_barrage_item_star,.txp_barrage_hide_top .txp_barrage_item_top{visibility:hidden}
+.txp_barrage_hide_bottom .txp_barrage_item_bottom.txp_barrage_item_mine,.txp_barrage_hide_roll .txp_barrage_item.txp_barrage_item_mine,.txp_barrage_hide_top .txp_barrage_item_star.txp_barrage_item_mine,.txp_barrage_hide_top .txp_barrage_item_top.txp_barrage_item_mine{visibility:visible}
+.txp_barrage_pause{-webkit-animation-play-state:paused;animation-play-state:paused}
+.txp_barrage_plusone{position:absolute;right:10px;top:-20px;font-size:20px;color:#ff4200;-webkit-animation:txp_barrage_plusone 1s linear both;animation:txp_barrage_plusone 1s linear both}
+.txp_barrage_emotion{display:inline-block;width:24px;height:24px;margin-right:2px;vertical-align:-3px}
+.txp_barrage_report{background-color:rgba(55,55,66,.95);width:80px;height:30px;line-height:30px;border-radius:15px;color:#fff;position:absolute;z-index:999;font-size:14px;left:0;top:0;text-align:center;cursor:pointer}
+.txp_barrage_report:hover{color:#ff920b}
+.txp_barrage_report:hover .txp_svg_icon_report{fill:#ff920b}
+.txp_svg_icon_report{width:20px;height:20px;margin-top:7px;vertical-align:top;fill:#fff;pointer-events:none}
+.txp_barrage_item_bubble{border-radius:20px;padding:4px 6px 4px 4px;padding-right:50px;background-size:contain!important;border:1px solid rgba(255,255,255,.5);background-position:right center;background-repeat:no-repeat}
+.txp_player_live .txp_barrage_item_bubble{padding-right:10px}
+.txp_barrage_vipicon{position:absolute;height:13px;top:19px;left:15px}
+.txp_barrage_item_mine{border:1px solid #fff;border-radius:20px;padding:4px 6px 4px 4px;width:auto;z-index:1}
+.txp_barrage_avatar{display:inline-block;margin-right:14px;width:24px;height:24px;border-radius:100%;vertical-align:top;pointer-events:auto}
+.txp_barrage_badge,.txp_barrage_text{display:inline-block;vertical-align:top}
+.txp_barrage_badge{margin-left:4px}
+.txp_barrage_badge .txp_icon_text{margin-left:3px;display:inline-block}
+.txp_barrage_lv1{color:#ff4200}
+.txp_barrage_lv2{color:#ff7800}
+.txp_barrage_lv3{color:#edc88d}
+.txp_barrage_lv4{color:#fff}
+.txp_barrage_lv5{color:#37a5e4}
+.txp_barrage_item_mine.txp_barrage_item_bubble{padding:4px 50px 4px 4px}
+.txp_barrage_item_star{position:absolute;left:50%;width:auto;z-index:2;pointer-events:auto;cursor:pointer;-webkit-transform:translate(-50%,0);-ms-transform:translate(-50%,0);transform:translate(-50%,0);-webkit-animation:txp_barrage_item_star_show .2s ease 1 both,txp_barrage_item_star .4s .1s linear 1 both;animation:txp_barrage_item_star_show .2s ease 1 both,txp_barrage_item_star .4s .1s linear 1 both}
+.txp_barrage_item_star .txp_barrage_avatar{position:absolute;left:0;top:-1px;z-index:3;width:36px;height:36px}
+.txp_barrage_item_star .txp_barrage_star{position:absolute;left:-12px;top:-16px;z-index:2;width:60px;height:60px;background:url(/tencentvideo/txp/style/img/avatar_star.svg) 0 0 no-repeat;-webkit-transform-origin:30px 32px;-ms-transform-origin:30px 32px;transform-origin:30px 32px;-webkit-animation:txp_barrage_star .6s .4s linear 1 both;animation:txp_barrage_star .6s .4s linear 1 both}
+.txp_barrage_item_star .txp_barrage_content{position:relative;z-index:1;display:inline-block;padding:4px 15px 4px 50px;line-height:24px;font-size:22px;white-space:nowrap;text-shadow:0 0 1px rgba(0,0,0,.5);cursor:pointer;border-radius:20px;border:1px solid #ffcc02;background-color:rgba(0,0,0,.6);-webkit-backface-visibility:hidden;backface-visibility:hidden;font-size:20px}
+.txp_barrage_item_img{position:absolute;left:0;top:0;z-index:-1;display:none;cursor:pointer;pointer-events:auto}
+.txp_html_fullscreen .txp_barrage_item_star{margin-top:40px}
+.txp_barrage_item_prop{border-radius:20px;padding:2px 58px 2px 2px;width:auto;z-index:1;background-color:rgba(255,92,56,.4);border:1px solid rgba(255,92,56,.6)}
+.txp_barrage_item_prop .txp_prop_img{position:absolute;right:10px;top:0;width:auto;height:30px}
+#faycheng{content:"20180530103512"}
