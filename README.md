@@ -10,7 +10,7 @@
   - [ICML](https://icml.cc/)
   - [IJCAI](https://www.ijcai.org/)
   - [NAACL](http://naacl.org/)
-  - [NIPS](https://nips.cc/)
+  - [NeurIPS](https://nips.cc/)
   
   
   
