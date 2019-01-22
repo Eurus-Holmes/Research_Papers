@@ -15,6 +15,7 @@
   - [SIGKDD](https://www.kdd.org/)
   - [ICASSP](https://dblp1.uni-trier.de/db/conf/icassp/)
   - [INTERSPEECH](https://dblp.org/db/conf/interspeech/)
+  - [AISTATS](https://www.aistats.org/)
   
   
   
