@@ -109,7 +109,12 @@ index | Title | Source | Notes/Code |
 ----------
 # About Multimodal Sentiment Analysis
 
-  - [MultiComp Lab](http://multicomp.cs.cmu.edu/)
+  - [CMU MultiComp Lab](http://multicomp.cs.cmu.edu/)
+  - [Prof.Morency](https://www.cs.cmu.edu/~morency/)
+
+
+
+
 
 
 
