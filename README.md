@@ -130,5 +130,7 @@ index | Title | Source | Notes/Code |
 ----------
 # Acknowledgements
 
+About [Must-Read Papers List](#Must-Read-Papers-List)
+
   - @[THUNLP](https://github.com/thunlp) --- Thanks for [THUNLP](https://github.com/thunlp)'s Contributions.
 
