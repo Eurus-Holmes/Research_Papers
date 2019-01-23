@@ -109,8 +109,8 @@ index | Title | Source | Notes/Code |
 ----------
 # About Multimodal Communication and Machine Learning & Sentiment Analysis
 
-  - [CMU MultiComp Lab](http://multicomp.cs.cmu.edu/)
-  - [Prof.Morency](https://www.cs.cmu.edu/~morency/)
+  - [CMU --- MultiComp Lab](http://multicomp.cs.cmu.edu/)
+  - [NTU --- SenticNet Team](http://sentic.net/)
 
 
 
