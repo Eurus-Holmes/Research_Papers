@@ -20,6 +20,14 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
 ----------  
 # Must-Read Papers List
 
@@ -34,6 +42,18 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
 ----------
 # Paper List
 
@@ -86,6 +106,15 @@ index | Title | Source | Notes/Code |
 
 
 
+----------
+# About Multimodal Sentiment Analysis
+
+  - [MultiComp Lab](http://multicomp.cs.cmu.edu/)
+
+
+
+
+
 
 
 ----------
@@ -99,6 +128,10 @@ index | Title | Source | Notes/Code |
   - [Draw.io](https://www.draw.io/)
   - [iLovePDF](https://www.ilovepdf.com/zh_cn)
   - [Paper Writing Proofreading Tools Collection](http://blog.leanote.com/post/chenfeiyang/paper-writing)
+
+
+
+
 
 
 
@@ -123,6 +156,11 @@ index | Title | Source | Notes/Code |
   - [Reddit](https://www.reddit.com/)
   - [Alexa](https://www.alexa.com/)
   - [Papers-We-Love](https://github.com/papers-we-love/papers-we-love)
+  
+  
+  
+  
+  
   
   
   
