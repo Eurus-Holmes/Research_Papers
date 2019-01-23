@@ -189,6 +189,6 @@ index | Title | Source | Notes/Code |
   - @[THUNLP](https://github.com/thunlp) --- Thanks for [THUNLP](https://github.com/thunlp)'s Contributions.
   - @[THUNLP-MT](https://github.com/THUNLP-MT) --- Thanks for [THUNLP-MT](https://github.com/THUNLP-MT)'s Contributions.
 
-### About [Multimodal](#About-Multimodal-Communication-and-Machine-Learning-&-Sentiment-Analysis)
+### About [Multimodal](#About-Multimodal-Communication-and-Machine-Learning-\&-Sentiment-Analysis)
 
   - @[MultiComp Lab](http://multicomp.cs.cmu.edu/) --- Thanks for [CMU MultiComp Lab](http://multicomp.cs.cmu.edu/)'s Contributions.
