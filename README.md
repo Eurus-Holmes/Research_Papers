@@ -111,7 +111,7 @@ index | Title | Source | Notes/Code |
 
   - [CMU --- MultiComp Lab](http://multicomp.cs.cmu.edu/)
   - [NTU --- SenticNet Team](http://sentic.net/)
-
+  - [SenticNet GitHub](https://github.com/SenticNet)
 
 
 
