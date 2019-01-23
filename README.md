@@ -192,3 +192,4 @@ index | Title | Source | Notes/Code |
 ### About [Multimodal](#About-Multimodal)
 
   - @[MultiComp Lab](http://multicomp.cs.cmu.edu/) --- Thanks for [CMU MultiComp Lab](http://multicomp.cs.cmu.edu/)'s Contributions.
+  - @[SenticNet](https://github.com/SenticNet) --- Thanks for [NTU SenticNet](https://github.com/SenticNet)'s Contributions.
