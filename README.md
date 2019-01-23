@@ -107,7 +107,7 @@ index | Title | Source | Notes/Code |
 
 
 ----------
-# About Multimodal Sentiment Analysis
+# About Multimodal Communication and Machine Learning & Sentiment Analysis
 
   - [CMU MultiComp Lab](http://multicomp.cs.cmu.edu/)
   - [Prof.Morency](https://www.cs.cmu.edu/~morency/)
