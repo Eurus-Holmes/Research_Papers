@@ -111,7 +111,9 @@ index | Title | Source | Notes/Code |
 
   - [CMU --- MultiComp Lab](http://multicomp.cs.cmu.edu/)
   - [NTU --- SenticNet Team](http://sentic.net/)
+  - [MIT --- SYNTHETIC INTELLIGENCE LABORATORY](http://synthintel.org/)
   - [SenticNet GitHub](https://github.com/SenticNet)
+  
 
 
 
