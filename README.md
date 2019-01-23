@@ -20,13 +20,13 @@
   
   
   
+----------  
+# Must-Read Papers List
+
+  - [Must-read papers on graph neural networks (GNN)](https://github.com/thunlp/GNNPapers)
+  - [Must-read papers on network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers)
   
   
-  
-
-
-
-
   
   
 ----------
