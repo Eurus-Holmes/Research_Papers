@@ -111,7 +111,7 @@ index | Title | Source | Notes/Code |
 
 
 ----------
-# About Multimodal Communication and Machine Learning & Sentiment Analysis
+# About Multimodal
 
   - [CMU --- MultiComp Lab](http://multicomp.cs.cmu.edu/)
   - [NTU --- SenticNet Team](http://sentic.net/)
@@ -189,6 +189,6 @@ index | Title | Source | Notes/Code |
   - @[THUNLP](https://github.com/thunlp) --- Thanks for [THUNLP](https://github.com/thunlp)'s Contributions.
   - @[THUNLP-MT](https://github.com/THUNLP-MT) --- Thanks for [THUNLP-MT](https://github.com/THUNLP-MT)'s Contributions.
 
-### About [Multimodal](#About-Multimodal-Communication-and-Machine-Learning-\&-Sentiment-Analysis)
+### About [Multimodal](#About-Multimodal)
 
   - @[MultiComp Lab](http://multicomp.cs.cmu.edu/) --- Thanks for [CMU MultiComp Lab](http://multicomp.cs.cmu.edu/)'s Contributions.
