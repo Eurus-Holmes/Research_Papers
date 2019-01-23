@@ -27,6 +27,7 @@
   - [Must-read papers on network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers)
   - [Must-read papers on Machine Reading Comprehension](https://github.com/thunlp/RCPapers)
   - [Must-read papers on neural relation extraction (NRE)](https://github.com/thunlp/NREPapers)
+  - [Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
   - [A machine translation reading list maintained by Tsinghua Natural Language Processing Group](https://github.com/THUNLP-MT/MT-Reading-List)
   
   
