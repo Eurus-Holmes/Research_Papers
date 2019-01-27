@@ -113,6 +113,7 @@ index | Title | Source | Notes/Code |
 ----------
 # About Multimodal
 
+  - [Tutorial on Multimodal Machine Learning (ACL2017) --- from CMU MultiComp Lab](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
   - [CMU --- MultiComp Lab](http://multicomp.cs.cmu.edu/)
   - [NTU --- SenticNet Team](http://sentic.net/)
   - [MIT --- SYNTHETIC INTELLIGENCE LABORATORY](http://synthintel.org/)
