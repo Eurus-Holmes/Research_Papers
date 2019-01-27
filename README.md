@@ -157,27 +157,38 @@ index | Title | Source | Notes/Code |
 ----------
 # Selected Links
 
+### CS Ranking
+  - [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
+
+
+### Paper Search
   - [Google Scholar](https://scholar.google.com/)
   - [Semantic Scholar](https://www.semanticscholar.org/)
   - [Arxiv](https://arxiv.org/)
+  
+  
+### Code Reproduce
   - [Gitxiv](http://www.gitxiv.com/)
-  - [PaperWeekly](https://www.paperweekly.site/)
   - [State Of The Art.AI](https://www.stateoftheart.ai/)
+
+
+### Trending Trace
+  - [PaperWeekly](https://www.paperweekly.site/)
   - [Academia](https://www.academia.edu/)
-  - [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
-  - [2018-2019 International Conferences in Artificial Intelligence, Computer Vision, Data Mining and Natural Language Processing](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html)
-  - [AI Conference Deadlines](https://aideadlin.es/?sub=NLP,ML,CV,RO,SP)
-  - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
   - [Synced](https://www.jiqizhixin.com/)
   - [Reddit](https://www.reddit.com/)
   - [Alexa](https://www.alexa.com/)
-  - [Papers-We-Love](https://github.com/papers-we-love/papers-we-love)
   - [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
   
   
+### Best Paper & Papers We Love
+  - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
+  - [Papers-We-Love](https://github.com/papers-we-love/papers-we-love)
   
   
-  
+### AI Conference Deadlines
+  - [2018-2019 International Conferences in Artificial Intelligence, Computer Vision, Data Mining and Natural Language Processing](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html)
+  - [AI Conference Deadlines](https://aideadlin.es/?sub=NLP,ML,CV,RO,SP)
   
   
   
