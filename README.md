@@ -175,6 +175,7 @@ index | Title | Source | Notes/Code |
 ### Trending Trace
   - [PaperWeekly](https://www.paperweekly.site/)
   - [Academia](https://www.academia.edu/)
+  - [ResearchGate](https://www.researchgate.net/)
   - [Synced](https://www.jiqizhixin.com/)
   - [Reddit](https://www.reddit.com/)
   - [Alexa](https://www.alexa.com/)
