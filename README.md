@@ -164,11 +164,11 @@ index | Title | Source | Notes/Code |
 ### Paper Search
   - [Google Scholar](https://scholar.google.com/)
   - [Semantic Scholar](https://www.semanticscholar.org/)
-  - [Arxiv](https://arxiv.org/)
+  - [ArXiv](https://arxiv.org/)
   
   
 ### Code Reproduce
-  - [Gitxiv](http://www.gitxiv.com/)
+  - [GitXiv](http://www.gitxiv.com/)
   - [State Of The Art.AI](https://www.stateoftheart.ai/)
   - [Papers with Code](https://paperswithcode.com/)
   - [Stack Overflow](https://stackoverflow.com/)
@@ -206,7 +206,12 @@ index | Title | Source | Notes/Code |
   - @[THUNLP](https://github.com/thunlp) --- Thanks for [THUNLP](https://github.com/thunlp)'s Contributions.
   - @[THUNLP-MT](https://github.com/THUNLP-MT) --- Thanks for [THUNLP-MT](https://github.com/THUNLP-MT)'s Contributions.
 
+
 ### About [Multimodal](#About-Multimodal)
 
   - @[MultiComp Lab](http://multicomp.cs.cmu.edu/) --- Thanks for [CMU MultiComp Lab](http://multicomp.cs.cmu.edu/)'s Contributions.
   - @[SenticNet](https://github.com/SenticNet) --- Thanks for [NTU SenticNet](https://github.com/SenticNet)'s Contributions.
+
+
+### About [Code Reproduce](###Code-Reproduce)
+  - @[GitXiv](http://www.gitxiv.com/) --- Thanks for [GitXiv](http://www.gitxiv.com/)'s Contributions.
