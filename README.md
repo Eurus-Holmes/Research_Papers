@@ -152,6 +152,18 @@ index | Title | Source | Notes/Code |
 
 
 
+# Code Reproduce
+  - [GitXiv](http://www.gitxiv.com/)
+  - [State Of The Art.AI](https://www.stateoftheart.ai/)
+  - [Papers with Code](https://paperswithcode.com/)
+  - [Stack Overflow](https://stackoverflow.com/)
+
+
+
+
+
+
+
 
 
 ----------
@@ -166,13 +178,6 @@ index | Title | Source | Notes/Code |
   - [Semantic Scholar](https://www.semanticscholar.org/)
   - [ArXiv](https://arxiv.org/)
   
-  
-### Code Reproduce
-  - [GitXiv](http://www.gitxiv.com/)
-  - [State Of The Art.AI](https://www.stateoftheart.ai/)
-  - [Papers with Code](https://paperswithcode.com/)
-  - [Stack Overflow](https://stackoverflow.com/)
-
 
 ### Trending Trace
   - [PaperWeekly](https://www.paperweekly.site/)
@@ -213,5 +218,5 @@ index | Title | Source | Notes/Code |
   - @[SenticNet](https://github.com/SenticNet) --- Thanks for [NTU SenticNet](https://github.com/SenticNet)'s Contributions.
 
 
-### About [Code Reproduce](###Code-Reproduce)
+### About [Code Reproduce](#Code-Reproduce)
   - @[GitXiv](http://www.gitxiv.com/) --- Thanks for [GitXiv](http://www.gitxiv.com/)'s Contributions.
