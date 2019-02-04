@@ -1,6 +1,7 @@
 # Conference List
 
   - [AAAI](https://www.aaai.org/)
+    - [AAAI 2019 Notes (Honolulu, HI, USA) --- from David Abel](https://david-abel.github.io/notes/aaai_2019.pdf)
   - [IJCAI](https://www.ijcai.org/)
   - [ACL](http://dblp.uni-trier.de/db/conf/acl/)
   - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
