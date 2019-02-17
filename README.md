@@ -216,6 +216,7 @@ index | Title | Source | Notes/Code |
   - [MIT: CSAIL](https://www.csail.mit.edu/)
   - [Stanford: SAIL](http://ai.stanford.edu/)
   - [UC Berkeley: BAIR](https://bair.berkeley.edu/)
+  - [UIUC: AI](https://cs.illinois.edu/research/artificial-intelligence)
   
   
 
