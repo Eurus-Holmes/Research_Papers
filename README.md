@@ -211,6 +211,7 @@ index | Title | Source | Notes/Code |
   - [Google AI](https://ai.google/)
   - [Google Brain](https://ai.google/research/teams/brain)
   - [DeepMind](https://deepmind.com/)
+  - [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
   - [FAIR](https://research.fb.com/category/facebook-ai-research/)
   - [CMU: AI](https://ai.cs.cmu.edu/)
   - [MIT: CSAIL](https://www.csail.mit.edu/)
