@@ -217,6 +217,7 @@ index | Title | Source | Notes/Code |
   - [Stanford: SAIL](http://ai.stanford.edu/)
   - [UC Berkeley: BAIR](https://bair.berkeley.edu/)
   - [UIUC: AI](https://cs.illinois.edu/research/artificial-intelligence)
+  - [Montreal: MILA](https://mila.quebec/en/)
   
   
 
