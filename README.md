@@ -114,6 +114,31 @@ index | Title | Source | Notes/Code |
 
 
 ----------
+# AI Lab&Team
+  - [Google AI](https://ai.google/)
+  - [Google Brain](https://ai.google/research/teams/brain)
+  - [DeepMind](https://deepmind.com/)
+  - [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
+  - [FAIR](https://research.fb.com/category/facebook-ai-research/)
+  - [CMU: AI](https://ai.cs.cmu.edu/)
+  - [MIT: CSAIL](https://www.csail.mit.edu/)
+  - [Stanford: SAIL](http://ai.stanford.edu/)
+  - [UC Berkeley: BAIR](https://bair.berkeley.edu/)
+  - [UIUC: AI](https://cs.illinois.edu/research/artificial-intelligence)
+  - [Montreal: MILA](https://mila.quebec/en/)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 # About Multimodal
 
   - [Tutorial on Multimodal Machine Learning (ACL2017) --- from CMU MultiComp Lab](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
@@ -169,6 +194,8 @@ index | Title | Source | Notes/Code |
 
 
 
+
+
 ----------
 # Selected Links
 
@@ -207,18 +234,7 @@ index | Title | Source | Notes/Code |
   - [Open AI](https://github.com/openai)
   
   
-### AI Lab&Team
-  - [Google AI](https://ai.google/)
-  - [Google Brain](https://ai.google/research/teams/brain)
-  - [DeepMind](https://deepmind.com/)
-  - [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
-  - [FAIR](https://research.fb.com/category/facebook-ai-research/)
-  - [CMU: AI](https://ai.cs.cmu.edu/)
-  - [MIT: CSAIL](https://www.csail.mit.edu/)
-  - [Stanford: SAIL](http://ai.stanford.edu/)
-  - [UC Berkeley: BAIR](https://bair.berkeley.edu/)
-  - [UIUC: AI](https://cs.illinois.edu/research/artificial-intelligence)
-  - [Montreal: MILA](https://mila.quebec/en/)
+
   
   
 
