@@ -207,8 +207,9 @@ index | Title | Source | Notes/Code |
   - [Open AI](https://github.com/openai)
   
   
-  
-  
+### AI Lab
+  - [Google AI](https://ai.google/)
+  - [DeepMind](https://deepmind.com/)
   
 
 ----------
