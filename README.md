@@ -212,6 +212,7 @@ index | Title | Source | Notes/Code |
   - [Google Brain](https://ai.google/research/teams/brain)
   - [DeepMind](https://deepmind.com/)
   - [FAIR](https://research.fb.com/category/facebook-ai-research/)
+  - [CMU: AI](https://ai.cs.cmu.edu/)
   - [MIT: CSAIL](https://www.csail.mit.edu/)
   
   
