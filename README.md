@@ -207,9 +207,12 @@ index | Title | Source | Notes/Code |
   - [Open AI](https://github.com/openai)
   
   
-### AI Lab
+### AI Lab&Team
   - [Google AI](https://ai.google/)
+  - [Google Brain](https://ai.google/research/teams/brain)
   - [DeepMind](https://deepmind.com/)
+  - [FAIR](https://research.fb.com/category/facebook-ai-research/)
+  
   
 
 ----------
