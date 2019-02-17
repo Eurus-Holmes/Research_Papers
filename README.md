@@ -214,6 +214,7 @@ index | Title | Source | Notes/Code |
   - [FAIR](https://research.fb.com/category/facebook-ai-research/)
   - [CMU: AI](https://ai.cs.cmu.edu/)
   - [MIT: CSAIL](https://www.csail.mit.edu/)
+  - [Stanford: SAIL](http://ai.stanford.edu/)
   
   
 
