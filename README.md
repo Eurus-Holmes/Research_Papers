@@ -99,6 +99,7 @@ index | Title | Source | Notes/Code |
 37 | *Structured and Unstructured Cache Models for SMT Domain Adaptation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Structured-and-Unstructured-Cache-Models-for-SMT-Domain-Adaptation.pdf) | [Corpus](http://homepages.inf.ed.ac.uk/alouis/wikiBio.html) |
 38 | *Contextual Inter-modal Attention for Multi-modal Sentiment Analysis* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Contextual-Inter-modal-Attention-for-Multi-modal-Sentiment-Analysis.pdf) | [Code](https://github.com/soujanyaporia/contextual-multimodal-fusion) |
 39 | *Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Learning-and-Fusing-Multimodal-Deep-Features-for-Acoustic-Scene-Categorization.pdf) | [MIDAS@IIITD](http://midas.iiitd.edu.in/papers/paper/learning-and-fusing.html) |
+40 | *Audio-Visual Fusion for Sentiment Classification using Cross-Modal Autoencoder* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Audio-Visual-Fusion-for-Sentiment-Classification-using-Cross-Modal-Autoencoder.pdf) | [NeurIPS 2018 Workshop](https://nips2018vigil.github.io/static/papers/accepted/19.pdf) |
 
 
 
