@@ -148,6 +148,7 @@ index | Title | Source | Notes/Code |
   - [NTU --- SenticNet Team](http://sentic.net/)
   - [MIT --- SYNTHETIC INTELLIGENCE LABORATORY](http://synthintel.org/)
   - [SenticNet GitHub](https://github.com/SenticNet)
+  - [Papers With Code --- Multimodal Sentiment Analysis](https://paperswithcode.com/task/multimodal-sentiment-analysis)
   
 
 
