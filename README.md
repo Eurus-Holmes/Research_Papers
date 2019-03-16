@@ -213,6 +213,7 @@ index | Title | Source | Notes/Code |
   - [Google Scholar](https://scholar.google.com/)
   - [Semantic Scholar](https://www.semanticscholar.org/)
   - [ArXiv](https://arxiv.org/)
+  - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
   
 
 ### Trending Trace
