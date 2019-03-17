@@ -103,6 +103,8 @@ index | Title | Source | Notes/Code |
 41 | *Learning Robust Joint Representations for Multimodal Sentiment Analysis* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Learning-Robust-Joint-Representations-for-Multimodal-Sentiment-Analysis.pdf) | [OpenReview](https://openreview.net/forum?id=rkgx8x1js7) |
 42 | *NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/NEURAL-MACHINE-TRANSLATION-BY-JOINTLY-LEARNING-TO-ALIGN-AND-TRANSLATE.pdf) | [Code](https://github.com/bentrevett/pytorch-seq2seq/blob/master/3%20-%20Neural%20Machine%20Translation%20by%20Jointly%20Learning%20to%20Align%20and%20Translate.ipynb) |
 43 | *Sequence to Sequence Learning with Neural Networks* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Sequence-to-Sequence-Learning-with-Neural-Networks.pdf) | [Code](https://github.com/bentrevett/pytorch-seq2seq/blob/master/1%20-%20Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.ipynb) |
+44 | *Effective Approaches to Attention-based Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Effective-Approaches-to-Attention-based-Neural-Machine-Translation.pdf) | [Code](https://github.com/lmthang/nmt.hybrid) |
+
 
 
 
