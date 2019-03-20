@@ -180,6 +180,7 @@ index | Title | Source | Notes/Code |
   - [Draw.io](https://www.draw.io/)
   - [iLovePDF](https://www.ilovepdf.com/zh_cn)
   - [Paper Writing Proofreading Tools Collection](http://blog.leanote.com/post/chenfeiyang/paper-writing)
+  - [Paper Tips And Tricks](https://github.com/Wookai/paper-tips-and-tricks)
 
 
 
