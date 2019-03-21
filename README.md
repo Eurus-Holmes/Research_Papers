@@ -106,6 +106,7 @@ index | Title | Source | Notes/Code |
 44 | *Effective Approaches to Attention-based Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Effective-Approaches-to-Attention-based-Neural-Machine-Translation.pdf) | [Code1/](https://github.com/lmthang/nmt.hybrid)[Code2](https://github.com/dillonalaird/Attention) |
 45 | *Asynchronous Bidirectional Decoding for Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Asynchronous-Bidirectional-Decoding-for-Neural-Machine-Translation.pdf) | [Code](https://github.com/DeepLearnXMU/ABD-NMT) |
 46 | *Convolutional Sequence to Sequence Learning* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Convolutional-Sequence-to-Sequence-Learning.pdf) | [Code1/](https://github.com/facebookresearch/fairseq)[Code2](https://github.com/pytorch/fairseq) |
+47 | *Image Based Review Text Generation with Emotional Guidance* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Image-Based-Review-Text-Generation-with-Emotional-Guidance.pdf) | [Code](https://github.com/zidaneandmessi/Image-Based-Review-Text-Generation-with-Emotional-Guidance) |
 
 
 
