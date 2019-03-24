@@ -108,6 +108,9 @@ index | Title | Source | Notes/Code |
 45 | *Asynchronous Bidirectional Decoding for Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Asynchronous-Bidirectional-Decoding-for-Neural-Machine-Translation.pdf) | [Code](https://github.com/DeepLearnXMU/ABD-NMT) |
 46 | *Convolutional Sequence to Sequence Learning* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Convolutional-Sequence-to-Sequence-Learning.pdf) | [Code1/](https://github.com/facebookresearch/fairseq)[Code2](https://github.com/pytorch/fairseq) |
 47 | *Image Based Review Text Generation with Emotional Guidance* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Image-Based-Review-Text-Generation-with-Emotional-Guidance.pdf) | [Code](https://github.com/zidaneandmessi/Image-Based-Review-Text-Generation-with-Emotional-Guidance) |
+48 | *Attention, please! A Critical Review of Neural Attention Models in Natural Language Processing* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing.pdf) | [Note](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing.md) |
+
+
 
 
 
