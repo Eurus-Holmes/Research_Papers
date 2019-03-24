@@ -12,7 +12,7 @@
 ----------
 # 1. Introduction
 
-![1](https://leanote.com/api/file/getImage?fileId=5c94773fab6441495d0015cb)
+![Figure 1](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/1.png)
 
 ----------
 # 2. The Attention Function
@@ -22,22 +22,22 @@
 ----------
 ## 2.1. An Example for Machine Translation and Alignment
 
-![2](https://leanote.com/api/file/getImage?fileId=5c94779eab64414762001505)
+![Figure 2](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/2.png)
 
 ----------
 ## 2.2. A Unified Attention Model
 
-![3](https://leanote.com/api/file/getImage?fileId=5c947979ab6441495d0015e3)
+![Figure 3](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/3.png)
 
-![4](https://leanote.com/api/file/getImage?fileId=5c947bb8ab6441495d0015ee)
+![Figure 4](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/4.png)
 
-![5](https://leanote.com/api/file/getImage?fileId=5c947bd8ab64414762001513)
+![Figure 5](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/5.png)
 
-![6](https://leanote.com/api/file/getImage?fileId=5c947d09ab6441476200152d)
+![Figure 6](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/6.png)
 
-![7](https://leanote.com/api/file/getImage?fileId=5c947d65ab6441495d0015fe)
+![Figure 7](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/7.png)
 
-![8](https://leanote.com/api/file/getImage?fileId=5c948504ab6441476200156c)
+![Figure 8](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/8.png)
 
 ----------
 ## 2.3. The Uses of Attention
@@ -50,16 +50,16 @@
 ----------
 ## 3.1 Input Representation
 
-![9](https://leanote.com/api/file/getImage?fileId=5c95fea6ab64417c52000371)
+![Figure 9](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/9.png)
 
  - ***3.1.1 HIERARCHICAL INPUT ARCHITECTURES***
 
-![10](https://leanote.com/api/file/getImage?fileId=5c96019dab64417c520003bd)
+![Figure 10](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/10.png)
 
 ----------
 ## 3.2 Compatibility Functions
 
-![11](https://leanote.com/api/file/getImage?fileId=5c96023eab64417c520003be)
+![Figure 11](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/11.png)
 
 ----------
 ## 3.3 Distribution functions
@@ -75,10 +75,10 @@
 
   - ***3.4.2 MULTIPLE INPUTS: CO-ATTENTION***
     - ***Coarse-grained co-attention***
-![12](https://leanote.com/api/file/getImage?fileId=5c97273dab64417e5f0006a1)
+![Figure 12](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/12.png)
     - ***Fine-grained co-attention***
-![13](https://leanote.com/api/file/getImage?fileId=5c97286bab64417c52000749)    
-![14](https://leanote.com/api/file/getImage?fileId=5c9728caab64417e5f0006b9)
+![Figure 13](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/13.png)
+![Figure 14](https://github.com/Eurus-Holmes/Research_Papers/raw/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/images/14.png)
 
 ----------
 # 4. Combining Attention and Knowledge
