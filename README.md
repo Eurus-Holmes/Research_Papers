@@ -109,6 +109,7 @@ index | Title | Source | Notes/Code |
 46 | *Convolutional Sequence to Sequence Learning* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Convolutional-Sequence-to-Sequence-Learning.pdf) | [Code1/](https://github.com/facebookresearch/fairseq)[Code2](https://github.com/pytorch/fairseq) |
 47 | *Image Based Review Text Generation with Emotional Guidance* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Image-Based-Review-Text-Generation-with-Emotional-Guidance.pdf) | [Code](https://github.com/zidaneandmessi/Image-Based-Review-Text-Generation-with-Emotional-Guidance) |
 48 | *Attention, please! A Critical Review of Neural Attention Models in Natural Language Processing* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing.pdf) | [Note](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing/Attention-please-A-Critical-Review-of-Neural-Attention-Models-in-Natural-Language-Processing.md) |
+49 | *TACOTRON: TOWARDS END-TO-END SPEECH SYNTHESIS* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/TACOTRON-TOWARDS-END-TO-END-SPEECH-SYNTHESIS.pdf) | [Code/](https://github.com/Kyubyong/tacotron)[Demo](https://github.com/google/tacotron) |
 
 
 
