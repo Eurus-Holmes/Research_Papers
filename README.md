@@ -217,6 +217,13 @@ index | Title | Source | Notes/Code |
 ----------
 # Selected Links
 
+### News!
+  - [THE GODFATHERS OF THE AI BOOM WIN COMPUTING’S HIGHEST HONOR](https://www.wired.com/story/godfathers-ai-boom-win-computings-highest-honor/)
+
+
+
+
+
 ### CS Ranking
   - [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
 
