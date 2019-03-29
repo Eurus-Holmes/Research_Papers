@@ -130,7 +130,7 @@ index | Title | Source | Notes/Code |
 
 
 ----------
-# AI Lab&Team
+# AI Lab & Team
   - [Google AI](https://ai.google/)
   - [Google Brain](https://ai.google/research/teams/brain)
   - [DeepMind](https://deepmind.com/)
@@ -142,6 +142,7 @@ index | Title | Source | Notes/Code |
   - [UC Berkeley: BAIR](https://bair.berkeley.edu/)
   - [UIUC: AI](https://cs.illinois.edu/research/artificial-intelligence)
   - [Montreal: MILA](https://mila.quebec/en/)
+  - [Edinburgh NLP](https://github.com/EdinburghNLP)
   
   
   
