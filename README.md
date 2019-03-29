@@ -143,6 +143,8 @@ index | Title | Source | Notes/Code |
   - [UIUC: AI](https://cs.illinois.edu/research/artificial-intelligence)
   - [Montreal: MILA](https://mila.quebec/en/)
   - [Edinburgh NLP](https://github.com/EdinburghNLP)
+  - [THU NLP](https://github.com/THUNLP)
+  - [Lanco PKU](https://github.com/lancopku)
   
   
   
