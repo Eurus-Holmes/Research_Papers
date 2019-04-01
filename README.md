@@ -145,6 +145,7 @@ index | Title | Source | Notes/Code |
   - [UIUC: AI](https://cs.illinois.edu/research/artificial-intelligence)
   - [Montreal: MILA](https://mila.quebec/en/)
   - [Edinburgh NLP](https://github.com/EdinburghNLP)
+  - [Stanford NLP](https://github.com/stanfordnlp)
   - [THU NLP](https://github.com/THUNLP)
   - [Lanco PKU](https://github.com/lancopku)
   
@@ -272,7 +273,12 @@ index | Title | Source | Notes/Code |
   - [Source Themes](https://github.com/sourcethemes)
   
   
-  
+### Course Materials
+  - [cmu11-485/785](https://github.com/cmudeeplearning11785)
+  - [cs224n](https://github.com/stanfordnlp/cs224n-winter17-notes)
+  - [cs231n](https://github.com/cs231n)
+  - [cs229n](https://github.com/afshinea/stanford-cs-229-machine-learning)
+  - [cs229t](https://github.com/percyliang/cs229t)
 
   
   
