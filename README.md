@@ -194,6 +194,7 @@ index | Title | Source | Notes/Code |
   - [iLovePDF](https://www.ilovepdf.com/zh_cn)
   - [Paper Writing Proofreading Tools Collection](http://blog.leanote.com/post/chenfeiyang/paper-writing)
   - [Paper Tips And Tricks](https://github.com/Wookai/paper-tips-and-tricks)
+  - [Mathpix Snip](https://mathpix.com/)
 
 
 
