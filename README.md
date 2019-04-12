@@ -112,6 +112,8 @@ index | Title | Source | Notes/Code |
 49 | *TACOTRON: TOWARDS END-TO-END SPEECH SYNTHESIS* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/TACOTRON-TOWARDS-END-TO-END-SPEECH-SYNTHESIS.pdf) | [Code/](https://github.com/Kyubyong/tacotron)[Demo](https://github.com/google/tacotron) |
 50 | *NATURAL TTS SYNTHESIS BY CONDITIONING WAVENET ON MEL SPECTROGRAM PREDICTIONS* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/NATURAL-TTS-SYNTHESIS-BY-CONDITIONING-WAVENET-ON-MEL-SPECTROGRAM-PREDICTIONS.pdf) | [Code/](https://github.com/Rayhane-mamah/Tacotron-2)[Demo](https://google.github.io/tacotron/publications/tacotron2/index.html) |
 51 | *Exploiting Cross-Sentence Context for Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Exploiting-Cross-Sentence-Context-for-Neural-Machine-Translation.pdf) | [Code1/](https://github.com/tuzhaopeng/LC-NMT)[Code2](https://github.com/longyuewangdcu/Cross-Sentence-NMT) |
+52 | *A Dataset for Telling the Stories of Social Media Videos* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/A-Dataset-for-Telling-the-Stories-of-Social-Media-Videos.pdf) | [FAIR Blog](https://research.fb.com/publications/a-dataset-for-telling-the-stories-of-social-media-videos/) |
+
 
 
 
