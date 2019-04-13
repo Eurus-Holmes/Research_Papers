@@ -114,6 +114,7 @@ index | Title | Source | Notes/Code |
 51 | *Exploiting Cross-Sentence Context for Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Exploiting-Cross-Sentence-Context-for-Neural-Machine-Translation.pdf) | [Code1/](https://github.com/tuzhaopeng/LC-NMT)[Code2](https://github.com/longyuewangdcu/Cross-Sentence-NMT) |
 52 | *A Dataset for Telling the Stories of Social Media Videos* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/A-Dataset-for-Telling-the-Stories-of-Social-Media-Videos.pdf) | [FAIR Blog](https://research.fb.com/publications/a-dataset-for-telling-the-stories-of-social-media-videos/) |
 53 | *KBGAN: Adversarial Learning for Knowledge Graph Embeddings* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/KBGAN-Adversarial-Learning-for-Knowledge-Graph-Embeddings.pdf) | [Code](https://github.com/cai-lw/KBGAN) |
+54 | *Evaluating Discourse Phenomena in Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Evaluating-Discourse-Phenomena-in-Neural-Machine-Translation.pdf) | [Ground AI](https://www.groundai.com/project/evaluating-discourse-phenomena-in-neural-machine-translation/) |
 
 
 
