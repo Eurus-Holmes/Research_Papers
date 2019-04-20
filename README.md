@@ -1,4 +1,4 @@
-# Conference List
+# [Conference List](http://www.guide2research.com/topconf/)
 
   - [AAAI](https://www.aaai.org/)
     - [AAAI 2019 Notes (Honolulu, HI, USA) --- from David Abel](https://david-abel.github.io/notes/aaai_2019.pdf)
