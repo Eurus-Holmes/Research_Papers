@@ -116,6 +116,7 @@ index | Title | Source | Notes/Code |
 53 | *KBGAN: Adversarial Learning for Knowledge Graph Embeddings* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/KBGAN-Adversarial-Learning-for-Knowledge-Graph-Embeddings.pdf) | [Code](https://github.com/cai-lw/KBGAN) |
 54 | *Evaluating Discourse Phenomena in Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Evaluating-Discourse-Phenomena-in-Neural-Machine-Translation.pdf) | [Ground AI](https://www.groundai.com/project/evaluating-discourse-phenomena-in-neural-machine-translation/) |
 55 | *Deep Network for the Integrated 3D Sensing of Multiple People in Natural Images* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Deep-Network-for-the-Integrated-3D-Sensing-of-Multiple-People-in-Natural%20Images.pdf) | [Video](https://www.youtube.com/watch?v=rdkrr1iZmvk) |
+56 | *A Pipeline for Creative Visual Storytelling* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/A-Pipeline-for-Creative-Visual-Storytelling.pdf) | [Ground AI](https://www.groundai.com/project/a-pipeline-for-creative-visual-storytelling/) |
 
 
 
