@@ -6,6 +6,7 @@
   - [ACL](http://dblp.uni-trier.de/db/conf/acl/)
   - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
   - [NAACL](http://naacl.org/)
+    - [NAACL 2019 Best Papers](https://naacl2019.org/blog/best-papers/)
   - [COLING](https://dblp.org/db/conf/coling/index)
   - [ICLR](https://iclr.cc/)
   - [ICML](https://icml.cc/)
