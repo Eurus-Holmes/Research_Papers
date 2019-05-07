@@ -122,6 +122,7 @@ index | Title | Source | Notes/Code |
 57 | *Unsupervised Image-to-Image Translation Using Domain-Specific Variational Information Bound* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Unsupervised-Image-to-Image-Translation-Using-Domain-Specific-Variational-Informatio-Bound.pdf) | [Author Homepage](http://www.hadikazemi.com/one_many.html) |
 58 | *Contextualize, Show and Tell: A Neural Visual Storyteller* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Contextualize-Show-and-Tell-A-Neural-Visual-Storyteller.pdf) | [Code/](https://github.com/dgonzalez-ri/neural-visual-storyteller)[Eval-Tool](https://github.com/lichengunc/vist_eval) |
 59 | *Deep learning based supervised semantic segmentation of Electron Cryo-Subtomograms* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Deep-learning-based-supervised-semantic-segmentation-of-Electron-Cryo-Subtomograms.pdf) | [Code](https://github.com/xulabs/projects/tree/master/segmentation) |
+60 | *Topic Segmentation of Dialogue* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Topic-Segmentation-of-Dialogue.pdf) | [Research Gate](https://www.researchgate.net/publication/228770668_Topic_segmentation_of_dialogue) |
 
 
 
