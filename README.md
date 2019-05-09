@@ -123,6 +123,7 @@ index | Title | Source | Notes/Code |
 58 | *Contextualize, Show and Tell: A Neural Visual Storyteller* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Contextualize-Show-and-Tell-A-Neural-Visual-Storyteller.pdf) | [Code/](https://github.com/dgonzalez-ri/neural-visual-storyteller)[Eval-Tool](https://github.com/lichengunc/vist_eval) |
 59 | *Deep learning based supervised semantic segmentation of Electron Cryo-Subtomograms* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Deep-learning-based-supervised-semantic-segmentation-of-Electron-Cryo-Subtomograms.pdf) | [Code](https://github.com/xulabs/projects/tree/master/segmentation) |
 60 | *Topic Segmentation of Dialogue* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Topic-Segmentation-of-Dialogue.pdf) | [Research Gate](https://www.researchgate.net/publication/228770668_Topic_segmentation_of_dialogue) |
+61 | *SECTOR: A Neural Model for Coherent Topic Segmentation and Classification* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SECTOR-A-Neural-Model-for-Coherent-Topic-Segmentation.pdf) | [Code/](https://github.com/sebastianarnold/SECTOR)[Dataset](https://github.com/sebastianarnold/WikiSection) |
 
 
 
