@@ -9,7 +9,7 @@
     - [NAACL 2019 Best Papers](https://naacl2019.org/blog/best-papers/)
   - [COLING](https://dblp.org/db/conf/coling/index)
   - [ICLR](https://iclr.cc/)
-    - [ICLR 2019 Notes (New Orleans, LA, USA) --- from David Abel](https://github.com/david-abel/iclr-2019)
+    - [ICLR 2019 Notes (New Orleans, LA, USA) --- from David Abel](https://david-abel.github.io/notes/iclr_2019.pdf)
   - [ICML](https://icml.cc/)
   - [NeurIPS](https://nips.cc/)
   - [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/)
