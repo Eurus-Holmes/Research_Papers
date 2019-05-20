@@ -127,6 +127,7 @@ index | Title | Source | Notes/Code |
 61 | *SECTOR: A Neural Model for Coherent Topic Segmentation and Classification* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SECTOR-A-Neural-Model-for-Coherent-Topic-Segmentation.pdf) | [Code/](https://github.com/sebastianarnold/SECTOR)[Dataset](https://github.com/sebastianarnold/WikiSection) |
 62 | *SEGBOT: A Generic Neural Text Segmentation Model with Pointer Network* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SEGBOT-A-Generic-Neural-Text-Segmentation-Model-with-Pointer-Network.pdf) | [Demo](http://138.197.118.157:8000/segbot/) |
 63 | *MASS: Masked Sequence to Sequence Pre-training for Language Generation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/MASS-Masked-Sequence-to-Sequence-Pre-training-for-Language-Generation.pdf) | [Code](https://github.com/ishwnews/MASS) |
+64 | *Expressing an Image Stream with a Sequence of Natural Sentences* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Expressing-an-Image-Stream-with-a-Sequence-of-Natural-Sentences.pdf) | [Code](https://github.com/cesc-park/CRCN) |
 
 
 
