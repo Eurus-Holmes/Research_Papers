@@ -168,6 +168,7 @@ index | Title | Source | Notes/Code |
   - [Stanford NLP](https://github.com/stanfordnlp)
   - [THU NLP](https://github.com/THUNLP)
   - [Lanco PKU](https://github.com/lancopku)
+  - [Facebook Research](https://github.com/facebookresearch)
   
   
   
@@ -289,7 +290,7 @@ index | Title | Source | Notes/Code |
   - [Dataset List](https://www.datasetlist.com/)
 
 
-### Interesting Organization
+### Interesting Organizations
   - [Open AI](https://github.com/openai)
   - [Hugging Face](https://github.com/huggingface)
   - [Rasa](https://github.com/RasaHQ)
