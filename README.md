@@ -130,6 +130,8 @@ index | Title | Source | Notes/Code |
 64 | *Expressing an Image Stream with a Sequence of Natural Sentences* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Expressing-an-Image-Stream-with-a-Sequence-of-Natural-Sentences.pdf) | [Code](https://github.com/cesc-park/CRCN) |
 65 | *GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/GLAC-Net-GLocal-Attention-Cascading-Networks-for-Multi-image-Cued-Story-Generation.pdf) | [Code](https://github.com/tkim-snu/GLACNet) |
 66 | *Spectral Representations for Convolutional Neural Networks* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Spectral-Representations-for-Convolutional-Neural-Networks.pdf) | [Code1/](https://github.com/el3ment/spectral_representations_for_convolutional_neural_networks)[Code2](https://github.com/oracleofnj/spectral-repr-cnns) |
+67 | *Spatial Transformer Networks* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Spatial-Transformer-Networks.pdf) | [Code/](https://github.com/kevinzakka/spatial-transformer-network)[Tutorial](https://pytorch.org/tutorials/intermediate/spatial_transformer_tutorial.html) |
+
 
 
 
