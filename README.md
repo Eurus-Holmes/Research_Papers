@@ -131,6 +131,10 @@ index | Title | Source | Notes/Code |
 65 | *GLAC Net: GLocal Attention Cascading Networks for Multi-image Cued Story Generation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/GLAC-Net-GLocal-Attention-Cascading-Networks-for-Multi-image-Cued-Story-Generation.pdf) | [Code](https://github.com/tkim-snu/GLACNet) |
 66 | *Spectral Representations for Convolutional Neural Networks* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Spectral-Representations-for-Convolutional-Neural-Networks.pdf) | [Code1/](https://github.com/el3ment/spectral_representations_for_convolutional_neural_networks)[Code2](https://github.com/oracleofnj/spectral-repr-cnns) |
 67 | *Spatial Transformer Networks* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Spatial-Transformer-Networks.pdf) | [Code/](https://github.com/kevinzakka/spatial-transformer-network)[Tutorial](https://pytorch.org/tutorials/intermediate/spatial_transformer_tutorial.html) |
+68 | *Improved deep learning-based macromolecules structure classification from electron cryo-tomograms* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Improved-deep-learning-based-macromolecules-structure-classification-from-electron-cryo-tomograms.pdf) | [Code/](https://github.com/xulabs/projects/tree/master/improved_classification) |
+
+
+
 
 
 
