@@ -288,6 +288,7 @@ index | Title | Source | Notes/Code |
   
 ### AI Conference Deadlines
   - [2018-2019 International Conferences in Artificial Intelligence, Computer Vision, Data Mining and Natural Language Processing](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html)
+  - [2019-2020 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)
   - [AI Conference Deadlines](https://aideadlin.es/?sub=NLP,ML,CV,RO,SP)
   - [Upcoming Conferences](http://www.conferencelist.info/upcoming.html)
    
