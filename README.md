@@ -11,6 +11,7 @@
   - [ICLR](https://iclr.cc/)
     - [ICLR 2019 Notes (New Orleans, LA, USA) --- from David Abel](https://david-abel.github.io/notes/iclr_2019.pdf)
   - [ICML](https://icml.cc/)
+    - [ICML 2019 Notes (Long Beach, CA, USA) --- from David Abel](https://david-abel.github.io/notes/icml_2019.pdf)
   - [NeurIPS](https://nips.cc/)
   - [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/)
   - [ECCV](https://dblp.org/db/conf/eccv/)
