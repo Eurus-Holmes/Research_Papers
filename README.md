@@ -44,6 +44,7 @@
   - [Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
   - [Must-read papers on Sememe Computation](https://github.com/thunlp/SCPapers)
   - [A machine translation reading list maintained by Tsinghua Natural Language Processing Group](https://github.com/THUNLP-MT/MT-Reading-List)
+  - [Reading list for research topics in Multimodal Machine Learning](https://github.com/pliang279/multimodal-ml-reading-list)
   
   
   
