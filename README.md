@@ -137,7 +137,7 @@ index | Title | Source | Notes/Code |
 69 | *Deep Unsupervised Saliency Detection: A Multiple Noisy Labeling Perspective* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Deep-Unsupervised-Saliency-Detection-A-Multiple-Noisy-Labeling-Perspective.pdf) | [Note](http://blog.leanote.com/post/chenfeiyang/Deep-Unsupervised-Saliency-Detection-A-Multiple-Noisy-Labeling-Perspective) |
 70 | *Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Pyramid-Dilated-Deeper-ConvLSTM-for-Video-Salient-Object-Detection.pdf) | [Code](https://github.com/shenjianbing/PDB-ConvLSTM) |
 71 | *Unsupervised CNN-based Co-Saliency Detection with Graphical Optimization* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Unsupervised-CNN-based-Co-Saliency-Detection-with-Graphical-Optimization.pdf) | [Note](https://github.com/Eurus-Holmes/Research_Papers/blob/master/paper_notes/Saliency-Detection-Paper-Notes-FeiyangChen.pdf) |
-
+72 | *An Unsupervised Game-Theoretic Approach to Saliency Detection* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/An-Unsupervised-Game-Theoretic-Approach-to-Saliency-Detection.pdf) | [Code](https://github.com/zengxianyu/uga) 
 
 
 
