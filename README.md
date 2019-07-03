@@ -313,9 +313,11 @@ index | Title | Source | Notes/Code |
 ### Course Materials
   - [cmu11-485/785](https://github.com/cmudeeplearning11785)
   - [cs224n](https://github.com/stanfordnlp/cs224n-winter17-notes)
+  - [cs224u](https://github.com/cgpotts/cs224u)
   - [cs231n](https://github.com/cs231n)
   - [cs229n](https://github.com/afshinea/stanford-cs-229-machine-learning)
   - [cs229t](https://github.com/percyliang/cs229t)
+  
 
   
   
