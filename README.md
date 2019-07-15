@@ -141,6 +141,8 @@ index | Title | Source | Notes/Code |
 73 | *Convolutional Neural Networks For Automated Annotation Of Cellular Cryo-Electron Tomograms* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/convolutional-neural-networks-for-automated-annotation-of-cellular-cryo-electron-tomograms.pdf) | [Code/](https://github.com/cryoem/eman2)[Online](https://www.nature.com/articles/nmeth.4405) |
 74 | *3D ConvNet improves macromolecule localization in 3D cellular cryo-electron tomograms* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/3D-ConvNet-improves-macromolecule-localization-in-3D-cellular-cryo-electron-tomograms.pdf) | [HAL](https://hal.inria.fr/hal-01966819) |
 75 | *IMAGE CO-SALIENCY DETECTION VIA LOCALLY ADAPTIVE SALIENCY MAP FUSION* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/IMAGE-CO-SALIENCY-DETECTION-VIA-LOCALLY-ADAPTIVE-SALIENCY-MAP-FUSION.pdf) | [Code](https://github.com/chungchi/CSLA) |
+76 | *SalGAN: visual saliency prediction with adversarial networks* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SalGAN-visual-saliency-prediction-with-adversarial-networks.pdf) | [Code](https://github.com/imatge-upc/salgan) |
+
 
 
 
