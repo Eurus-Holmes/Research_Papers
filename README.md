@@ -44,6 +44,7 @@
   - [Must-read papers on neural relation extraction (NRE)](https://github.com/thunlp/NREPapers)
   - [Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
   - [Must-read papers on Sememe Computation](https://github.com/thunlp/SCPapers)
+  - [Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning Papers](https://github.com/floodsung/Meta-Learning-Papers)
   
   
 
