@@ -45,6 +45,7 @@
   - [Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
   - [Must-read papers on Sememe Computation](https://github.com/thunlp/SCPapers)
   - [Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning Papers](https://github.com/floodsung/Meta-Learning-Papers)
+  - [Must-read Papers on Textual Adversarial Attack and Defense (TAAD)](https://github.com/thunlp/TAADpapers)
   
   
 
