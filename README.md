@@ -15,6 +15,7 @@
   - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
   - [NAACL](http://naacl.org/)
     - [NAACL 2019 Best Papers](https://naacl2019.org/blog/best-papers/)
+    - [NAACL 2019 Notes: Practical Insights for Natural Language Processing Applications — Part I](https://medium.com/orb-engineering/naacl-19-notes-practical-insights-for-natural-language-processing-applications-part-i-5f981c92af80)
   - [COLING](https://dblp.org/db/conf/coling/index)
   - [ICLR](https://iclr.cc/)
     - [ICLR 2019 Notes (New Orleans, LA, USA) --- from David Abel](https://david-abel.github.io/notes/iclr_2019.pdf)
