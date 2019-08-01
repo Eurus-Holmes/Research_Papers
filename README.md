@@ -12,7 +12,7 @@
     - [AAAI 2019 Notes (Honolulu, HI, USA) --- from David Abel](https://david-abel.github.io/notes/aaai_2019.pdf)
   - [IJCAI](https://www.ijcai.org/)
   - [ACL](http://dblp.uni-trier.de/db/conf/acl/)
-    - [ACL 2019 Best Paper](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml)
+    - [ACL 2019 Best Papers](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml)
     - [ACL 2019 TUTORIALS](http://www.acl2019.org/EN/tutorials.xhtml)
   - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
   - [NAACL](http://naacl.org/)
