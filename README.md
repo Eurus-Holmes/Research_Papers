@@ -72,18 +72,6 @@
   - [Lanco PKU](https://github.com/lancopku)
   - [Facebook Research](https://github.com/facebookresearch)
   
-  
-  
-# About Multimodal
-
-  - [Tutorial on Multimodal Machine Learning (ACL2017) --- from CMU MultiComp Lab](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
-  - [Multimodal Machine Learning: A Survey and Taxonomy (TPAMI2019) --- from CMU & Microsoft](https://github.com/Eurus-Holmes/Research_Papers/blob/master/18_Multimodal%20Machine%20Learning%20A%20Survey%20and%20Taxonomy_TPAMI2019.pdf)
-  - [CMU --- MultiComp Lab](http://multicomp.cs.cmu.edu/)
-  - [NTU --- SenticNet Team](http://sentic.net/)
-  - [MIT --- SYNTHETIC INTELLIGENCE LABORATORY](http://synthintel.org/)
-  - [SenticNet GitHub](https://github.com/SenticNet)
-  - [Papers With Code --- Multimodal Sentiment Analysis](https://paperswithcode.com/task/multimodal-sentiment-analysis)
-  
 
 
 ----------
@@ -184,16 +172,20 @@
   - @[THUNLP-MT](https://github.com/THUNLP-MT) --- Thanks for [THUNLP-MT](https://github.com/THUNLP-MT)'s Contributions.
 
 
-### About [Multimodal](#About-Multimodal)
-
-  - @[MultiComp Lab](http://multicomp.cs.cmu.edu/) --- Thanks for [CMU MultiComp Lab](http://multicomp.cs.cmu.edu/)'s Contributions.
-  - @[SenticNet](https://github.com/SenticNet) --- Thanks for [NTU SenticNet](https://github.com/SenticNet)'s Contributions.
-
-
 ### About [Code Reproduce](#Code-Reproduce)
   - @[GitXiv](http://www.gitxiv.com/) --- Thanks for [GitXiv](http://www.gitxiv.com/)'s Contributions.
   - @[Papers with Code](https://paperswithcode.com/) --- Thanks for [Papers with Code](https://paperswithcode.com/)'s Contributions.
   - @[State Of The Art.AI](https://www.stateoftheart.ai/) --- Thanks for [State Of The Art.AI](https://www.stateoftheart.ai/)'s Contributions.
-  
+ 
+ 
+ ### About Multimodal
+
+  - [Tutorial on Multimodal Machine Learning (ACL2017) --- from CMU MultiComp Lab](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
+  - [Multimodal Machine Learning: A Survey and Taxonomy (TPAMI2019) --- from CMU & Microsoft](https://github.com/Eurus-Holmes/Research_Papers/blob/master/18_Multimodal%20Machine%20Learning%20A%20Survey%20and%20Taxonomy_TPAMI2019.pdf)
+  - [CMU --- MultiComp Lab](http://multicomp.cs.cmu.edu/)
+  - [NTU --- SenticNet Team](http://sentic.net/)
+  - [MIT --- SYNTHETIC INTELLIGENCE LABORATORY](http://synthintel.org/)
+  - [SenticNet GitHub](https://github.com/SenticNet)
+  - [Papers With Code --- Multimodal Sentiment Analysis](https://paperswithcode.com/task/multimodal-sentiment-analysis)
   
 
