@@ -42,6 +42,7 @@
 
   - [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/multimodal-ml-reading-list)
   - [Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)
+  - [Text Generation Reading List](https://github.com/THUNLP-MT/TG-Reading-List)
   - [Must-read papers on graph neural networks (GNN)](https://github.com/thunlp/GNNPapers)
   - [Must-read papers on network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers)
   - [Must-read papers on Machine Reading Comprehension](https://github.com/thunlp/RCPapers)
