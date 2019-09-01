@@ -128,6 +128,7 @@
   - [Reddit](https://www.reddit.com/)
   - [Alexa](https://www.alexa.com/)
   - [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
+  - [Analytics Vidhya](https://www.analyticsvidhya.com/)
   
   
 ### Best Paper & Papers We Love
