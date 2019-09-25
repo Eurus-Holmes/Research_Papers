@@ -16,6 +16,7 @@
     - [ACL 2019 Best Papers](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml)
     - [ACL 2019 TUTORIALS](http://www.acl2019.org/EN/tutorials.xhtml)
   - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
+    - [EMNLP-IJCNLP 2019 Program](https://www.emnlp-ijcnlp2019.org/program/)
   - [NAACL](http://naacl.org/)
     - [NAACL 2019 Best Papers](https://naacl2019.org/blog/best-papers/)
     - [NAACL 2019 Notes: Practical Insights for Natural Language Processing Applications — Part I](https://medium.com/orb-engineering/naacl-19-notes-practical-insights-for-natural-language-processing-applications-part-i-5f981c92af80)
