@@ -174,19 +174,19 @@
 ----------
 # Acknowledgements
 
-### About [Must-Read Papers List](#Must-Read-Papers-List)
+## About [Must-Read Papers List](#Must-Read-Papers-List)
 
   - @[THUNLP](https://github.com/thunlp) --- Thanks for [THUNLP](https://github.com/thunlp)'s Contributions.
   - @[THUNLP-MT](https://github.com/THUNLP-MT) --- Thanks for [THUNLP-MT](https://github.com/THUNLP-MT)'s Contributions.
 
 
-### About [Code Reproduce](#Code-Reproduce)
+## About [Code Reproduce](#Code-Reproduce)
   - @[GitXiv](http://www.gitxiv.com/) --- Thanks for [GitXiv](http://www.gitxiv.com/)'s Contributions.
   - @[Papers with Code](https://paperswithcode.com/) --- Thanks for [Papers with Code](https://paperswithcode.com/)'s Contributions.
   - @[State Of The Art.AI](https://www.stateoftheart.ai/) --- Thanks for [State Of The Art.AI](https://www.stateoftheart.ai/)'s Contributions.
  
  
-### About [Multimodal](https://github.com/Eurus-Holmes/Awesome_Multimodal_Research)
+## About [Multimodal](https://github.com/Eurus-Holmes/Awesome_Multimodal_Research)
 
   - [Tutorial on Multimodal Machine Learning (ACL2017) --- from CMU MultiComp Lab](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
   - [Multimodal Machine Learning: A Survey and Taxonomy (TPAMI2019) --- from CMU & Microsoft](https://github.com/Eurus-Holmes/Research_Papers/blob/master/18_Multimodal%20Machine%20Learning%20A%20Survey%20and%20Taxonomy_TPAMI2019.pdf)
