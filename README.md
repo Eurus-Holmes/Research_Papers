@@ -25,6 +25,7 @@
   - [ICML](https://icml.cc/)
     - [ICML 2019 Notes (Long Beach, CA, USA) --- from David Abel](https://david-abel.github.io/notes/icml_2019.pdf)
   - [NeurIPS](https://nips.cc/)
+    - [NeurIPS Proceedings](https://papers.nips.cc/)
   - [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/)
     - [Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)](https://github.com/hoya012/CVPR-2019-Paper-Statistics)
   - [ECCV](https://dblp.org/db/conf/eccv/)
