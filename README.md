@@ -27,6 +27,7 @@
   - [NeurIPS](https://nips.cc/)
     - [NeurIPS Proceedings](https://papers.nips.cc/)
   - [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/)
+    - [CVPR 2019 open access](http://openaccess.thecvf.com/CVPR2019.py)
     - [Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)](https://github.com/hoya012/CVPR-2019-Paper-Statistics)
   - [ECCV](https://dblp.org/db/conf/eccv/)
   - [ICCV](https://dblp.uni-trier.de/db/conf/iccv/)
