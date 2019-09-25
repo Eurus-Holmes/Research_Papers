@@ -20,7 +20,6 @@
   - [NAACL](http://naacl.org/)
     - [NAACL 2019 Best Papers](https://naacl2019.org/blog/best-papers/)
     - [NAACL 2019 Notes: Practical Insights for Natural Language Processing Applications — Part I](https://medium.com/orb-engineering/naacl-19-notes-practical-insights-for-natural-language-processing-applications-part-i-5f981c92af80)
-  - [COLING](https://dblp.org/db/conf/coling/index)
   - [ICLR](https://iclr.cc/)
     - [ICLR 2019 Notes (New Orleans, LA, USA) --- from David Abel](https://david-abel.github.io/notes/iclr_2019.pdf)
   - [ICML](https://icml.cc/)
@@ -41,7 +40,9 @@
   
 ----------  
 # Must-Read Papers List
-
+  
+  - [Multimodal Machine Learning](https://github.com/multimodal-machine-learning/multimodal-ml-reading-list)
+  - [ACL Anthology](https://aclweb.org/anthology/)
   - [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/multimodal-ml-reading-list)
   - [Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)
   - [Text Generation Reading List](https://github.com/THUNLP-MT/TG-Reading-List)
