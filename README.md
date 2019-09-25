@@ -108,25 +108,25 @@
 ----------
 # Selected Links
 
-### News!
+## News!
   - [THE GODFATHERS OF THE AI BOOM WIN COMPUTING’S HIGHEST HONOR](https://www.wired.com/story/godfathers-ai-boom-win-computings-highest-honor/)
 
 
 
 
-### CS Ranking/TopConf Ranking
+## CS Ranking/TopConf Ranking
   - [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
   - [TopConf Ranking](http://www.guide2research.com/topconf/)
 
 
-### Paper Search
+## Paper Search
   - [Google Scholar](https://scholar.google.com/)
   - [Semantic Scholar](https://www.semanticscholar.org/)
   - [ArXiv](https://arxiv.org/)
   - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
   
 
-### Trending Trace
+## Trending Trace
   - [PaperWeekly](https://www.paperweekly.site/)
   - [Academia](https://www.academia.edu/)
   - [ResearchGate](https://www.researchgate.net/)
@@ -137,31 +137,31 @@
   - [Analytics Vidhya](https://www.analyticsvidhya.com/)
   
   
-### Best Paper & Papers We Love
+## Best Paper & Papers We Love
   - [Best Paper Awards in Computer Science (since 1996)](https://jeffhuang.com/best_paper_awards.html)
   - [Papers-We-Love](https://github.com/papers-we-love/papers-we-love)
   
   
-### AI Conference Deadlines
+## AI Conference Deadlines
   - [2018-2019 International Conferences in Artificial Intelligence, Computer Vision, Data Mining and Natural Language Processing](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html)
   - [2019-2020 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)
   - [AI Conference Deadlines](https://aideadlin.es/?sub=NLP,ML,CV,RO,SP)
   - [Upcoming Conferences](http://www.conferencelist.info/upcoming.html)
    
 
-### Dataset
+## Dataset
   - [Dataset Search](https://toolbox.google.com/datasetsearch)
   - [Dataset List](https://www.datasetlist.com/)
 
 
-### Interesting Organizations
+## Interesting Organizations
   - [Open AI](https://github.com/openai)
   - [Hugging Face](https://github.com/huggingface)
   - [Rasa](https://github.com/RasaHQ)
   - [Source Themes](https://github.com/sourcethemes)
   
   
-### Course Materials
+## Course Materials
   - [cmu11-485/785](https://github.com/cmudeeplearning11785)
   - [cs224n](https://github.com/stanfordnlp/cs224n-winter17-notes)
   - [cs224u](https://github.com/cgpotts/cs224u)
