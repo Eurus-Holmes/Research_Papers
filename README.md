@@ -6,7 +6,7 @@
 
 
 
-# [Conference List](http://www.guide2research.com/topconf/)
+## [Conference List](http://www.guide2research.com/topconf/)
 
   - [AAAI](https://www.aaai.org/)
     - [AAAI 2019 Notes (Honolulu, HI, USA) --- from David Abel](https://david-abel.github.io/notes/aaai_2019.pdf)
@@ -42,7 +42,7 @@
  
   
 ----------  
-# Must-Read Papers List
+## Must-Read Papers List
   
   - [Multimodal Machine Learning](https://github.com/multimodal-machine-learning/multimodal-ml-reading-list)
   - [ACL Anthology](https://aclweb.org/anthology/)
@@ -61,7 +61,7 @@
   
 
 ----------
-# AI Lab & Team
+## AI Lab & Team
   - [Google AI](https://ai.google/)
   - [Google Brain](https://ai.google/research/teams/brain)
   - [DeepMind](https://deepmind.com/)
@@ -82,7 +82,7 @@
 
 
 ----------
-# Paper Writing Related
+## Paper Writing Related
 
   - [Overleaf](https://www.overleaf.com/)
   - [Tables Generator](https://www.tablesgenerator.com/)
@@ -97,7 +97,7 @@
 
 
 
-# Code Reproduce
+## Code Reproduce
   - [GitXiv](http://www.gitxiv.com/)
   - [State Of The Art.AI](https://www.stateoftheart.ai/)
   - [Papers with Code](https://paperswithcode.com/)
@@ -186,7 +186,7 @@
   - @[State Of The Art.AI](https://www.stateoftheart.ai/) --- Thanks for [State Of The Art.AI](https://www.stateoftheart.ai/)'s Contributions.
  
  
- ### About [Multimodal](https://github.com/Eurus-Holmes/Awesome_Multimodal_Research)
+### About [Multimodal](https://github.com/Eurus-Holmes/Awesome_Multimodal_Research)
 
   - [Tutorial on Multimodal Machine Learning (ACL2017) --- from CMU MultiComp Lab](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
   - [Multimodal Machine Learning: A Survey and Taxonomy (TPAMI2019) --- from CMU & Microsoft](https://github.com/Eurus-Holmes/Research_Papers/blob/master/18_Multimodal%20Machine%20Learning%20A%20Survey%20and%20Taxonomy_TPAMI2019.pdf)
