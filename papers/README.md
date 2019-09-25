@@ -90,3 +90,5 @@ index | Title | Source | Notes/Code |
 86 | *The Secrets of Salient Object Segmentation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/The-Secrets-of-Salient-Object-Segmentation.pdf) | [Code](http://www.cbi.gatech.edu/salobj/) |
 87 | *A Shared Task on Multimodal Machine Translation and Crosslingual Image Description* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/A-Shared-Task-on-Multimodal-Machine-Translation-and-Crosslingual-Image-Description.pdf) | [Official](http://statmt.org/wmt16/) |
 88 | *VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/VATEX-A-Large-Scale-High-Quality-Multilingual-Dataset-for-Video-and-Language-Research.pdf) | [Official](http://vatex.org/) |
+89 | *Probing the Need for Visual Context in Multimodal Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Probing-the-Need-for-Visual-Context-in-Multimodal-Machine-Translation.pdf) | [NAACL2019 Best Short Paper](https://naacl2019.org/blog/best-papers/) |
+
