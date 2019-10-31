@@ -8,6 +8,13 @@
 
 ## [Conference List](http://www.guide2research.com/topconf/)
 
+  - [ICLR](https://iclr.cc/)
+    - [ICLR 2019 Notes (New Orleans, LA, USA) --- from David Abel](https://david-abel.github.io/notes/iclr_2019.pdf)
+    
+  - [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/)
+    - [CVPR 2019 open access](http://openaccess.thecvf.com/CVPR2019.py)
+    - [Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)](https://github.com/hoya012/CVPR-2019-Paper-Statistics)    
+
   - [AAAI](https://www.aaai.org/)
     - [AAAI 2019 Notes (Honolulu, HI, USA) --- from David Abel](https://david-abel.github.io/notes/aaai_2019.pdf)
   - [IJCAI](https://www.ijcai.org/)
@@ -20,15 +27,12 @@
   - [NAACL](http://naacl.org/)
     - [NAACL 2019 Best Papers](https://naacl2019.org/blog/best-papers/)
     - [NAACL 2019 Notes: Practical Insights for Natural Language Processing Applications — Part I](https://medium.com/orb-engineering/naacl-19-notes-practical-insights-for-natural-language-processing-applications-part-i-5f981c92af80)
-  - [ICLR](https://iclr.cc/)
-    - [ICLR 2019 Notes (New Orleans, LA, USA) --- from David Abel](https://david-abel.github.io/notes/iclr_2019.pdf)
+
   - [ICML](https://icml.cc/)
     - [ICML 2019 Notes (Long Beach, CA, USA) --- from David Abel](https://david-abel.github.io/notes/icml_2019.pdf)
   - [NeurIPS](https://nips.cc/)
     - [NeurIPS Proceedings](https://papers.nips.cc/)
-  - [CVPR](https://dblp.uni-trier.de/db/conf/cvpr/)
-    - [CVPR 2019 open access](http://openaccess.thecvf.com/CVPR2019.py)
-    - [Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)](https://github.com/hoya012/CVPR-2019-Paper-Statistics)
+
   - [ECCV](https://dblp.org/db/conf/eccv/)
   - [ICCV](https://dblp.uni-trier.de/db/conf/iccv/)
     - [Statistics and Visualization of acceptance rate, main keyword of ICCV 2019 accepted papers for International Conference on Computer Vision (ICCV 2019)](https://github.com/hoya012/ICCV-2019-Paper-Statistics)
