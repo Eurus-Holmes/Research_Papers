@@ -42,7 +42,11 @@
   - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
     - [EMNLP 2019 Papers](https://www.emnlp-ijcnlp2019.org/program/accepted/)
     - [EMNLP-IJCNLP 2019 Program](https://www.emnlp-ijcnlp2019.org/program/)
-    
+ 
+  - [SIGKDD](https://www.kdd.org/)
+
+  - [ICASSP](https://dblp1.uni-trier.de/db/conf/icassp/)
+  
   - [IJCAI](https://www.ijcai.org/)
     - [IJCAI 2019 Proceedings](https://www.ijcai.org/proceedings/2019/)
 
@@ -53,8 +57,8 @@
 
 
   - [SIGGRAPH](https://www.siggraph.org/)
-  - [SIGKDD](https://www.kdd.org/)
-  - [ICASSP](https://dblp1.uni-trier.de/db/conf/icassp/)
+
+
   - [INTERSPEECH](https://dblp.org/db/conf/interspeech/)
   - [AISTATS](https://www.aistats.org/)
   - [COLT](https://www.learningtheory.org/)
