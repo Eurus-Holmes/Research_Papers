@@ -26,14 +26,16 @@
   - [ICCV](https://dblp.uni-trier.de/db/conf/iccv/)
     - [ICCV 2019 open access](http://openaccess.thecvf.com/ICCV2019.py)
     - [Statistics and Visualization of acceptance rate, main keyword of ICCV 2019 accepted papers for International Conference on Computer Vision (ICCV 2019)](https://github.com/hoya012/ICCV-2019-Paper-Statistics)
+ 
+  - [ACL](http://dblp.uni-trier.de/db/conf/acl/)
+    - [ACL 2019 Best Papers](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml)
+    - [ACL 2019 TUTORIALS](http://www.acl2019.org/EN/tutorials.xhtml)
     
   - [AAAI](https://www.aaai.org/)
     - [AAAI 2019 Notes (Honolulu, HI, USA) --- from David Abel](https://david-abel.github.io/notes/aaai_2019.pdf)
   - [IJCAI](https://www.ijcai.org/)
     - [IJCAI 2019 Proceedings](https://www.ijcai.org/proceedings/2019/)
-  - [ACL](http://dblp.uni-trier.de/db/conf/acl/)
-    - [ACL 2019 Best Papers](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml)
-    - [ACL 2019 TUTORIALS](http://www.acl2019.org/EN/tutorials.xhtml)
+
   - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
     - [EMNLP-IJCNLP 2019 Program](https://www.emnlp-ijcnlp2019.org/program/)
   - [NAACL](http://naacl.org/)
