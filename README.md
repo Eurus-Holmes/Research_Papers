@@ -38,12 +38,15 @@
   - [AAAI](https://www.aaai.org/)
     - [AAAI 2019 Papers](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
     - [AAAI 2019 Notes (Honolulu, HI, USA) --- from David Abel](https://david-abel.github.io/notes/aaai_2019.pdf)
+
+  - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
+    - [EMNLP 2019 Papers](https://www.emnlp-ijcnlp2019.org/program/accepted/)
+    - [EMNLP-IJCNLP 2019 Program](https://www.emnlp-ijcnlp2019.org/program/)
     
   - [IJCAI](https://www.ijcai.org/)
     - [IJCAI 2019 Proceedings](https://www.ijcai.org/proceedings/2019/)
 
-  - [EMNLP](https://dblp.uni-trier.de/db/conf/emnlp/)
-    - [EMNLP-IJCNLP 2019 Program](https://www.emnlp-ijcnlp2019.org/program/)
+
   - [NAACL](http://naacl.org/)
     - [NAACL 2019 Best Papers](https://naacl2019.org/blog/best-papers/)
     - [NAACL 2019 Notes: Practical Insights for Natural Language Processing Applications — Part I](https://medium.com/orb-engineering/naacl-19-notes-practical-insights-for-natural-language-processing-applications-part-i-5f981c92af80)
