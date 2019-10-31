@@ -46,6 +46,7 @@
   - [SIGKDD](https://www.kdd.org/)
 
   - [ICASSP](https://dblp1.uni-trier.de/db/conf/icassp/)
+    - [ICASSP 2019 Papers](https://2019.ieeeicassp.org/program#paper-search)
   
   - [IJCAI](https://www.ijcai.org/)
     - [IJCAI 2019 Proceedings](https://www.ijcai.org/proceedings/2019/)
@@ -53,18 +54,15 @@
   - [INTERSPEECH](https://dblp.org/db/conf/interspeech/)
   
   - [NAACL](http://naacl.org/)
+    - [NAACL 2019 Papers](https://naacl2019.org/program/accepted/)
     - [NAACL 2019 Best Papers](https://naacl2019.org/blog/best-papers/)
     - [NAACL 2019 Notes: Practical Insights for Natural Language Processing Applications — Part I](https://medium.com/orb-engineering/naacl-19-notes-practical-insights-for-natural-language-processing-applications-part-i-5f981c92af80)
 
-
-  - [SIGGRAPH](https://www.siggraph.org/)
-
-
-
   - [AISTATS](https://www.aistats.org/)
+  
   - [COLT](https://www.learningtheory.org/)
   
- 
+  - [SIGGRAPH](https://www.siggraph.org/)
   
 ----------  
 ## Must-Read Papers List
