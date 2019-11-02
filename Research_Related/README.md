@@ -75,6 +75,7 @@
   
   
 ## Course Materials
+  - [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
   - [cmu11-485/785](https://github.com/cmudeeplearning11785)
   - [cs224n](https://github.com/stanfordnlp/cs224n-winter17-notes)
   - [cs224u](https://github.com/cgpotts/cs224u)
