@@ -6,7 +6,7 @@
 
 
 
-## [Conference List](http://www.guide2research.com/topconf/)
+## [Top Conferences](http://www.guide2research.com/topconf/)
 
   - [ICLR](https://iclr.cc/)
     - [ICLR 2020 | OpenReview](https://openreview.net/group?id=ICLR.cc/2020/Conference)
