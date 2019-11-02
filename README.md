@@ -31,6 +31,7 @@
     - [Statistics and Visualization of acceptance rate, main keyword of ICCV 2019 accepted papers for International Conference on Computer Vision (ICCV 2019)](https://github.com/hoya012/ICCV-2019-Paper-Statistics)
  
   - [ACL](http://dblp.uni-trier.de/db/conf/acl/)
+    - [ACL Anthology](https://aclweb.org/anthology/)
     - [ACL 2019 Papers](http://www.acl2019.org/EN/program/papers.xhtml)
     - [ACL 2019 Best Papers](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml)
     - [ACL 2019 TUTORIALS](http://www.acl2019.org/EN/tutorials.xhtml)
@@ -64,11 +65,10 @@
   
   - [SIGGRAPH](https://www.siggraph.org/)
   
-----------  
+
 ## Awesome Papers Reading List
   
   - [Multimodal Machine Learning](https://github.com/multimodal-machine-learning/multimodal-ml-reading-list)
-  - [ACL Anthology](https://aclweb.org/anthology/)
   - [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/multimodal-ml-reading-list)
   - [Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)
   - [Text Generation Reading List](https://github.com/THUNLP-MT/TG-Reading-List)
