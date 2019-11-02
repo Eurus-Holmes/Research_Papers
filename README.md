@@ -81,6 +81,9 @@
   - [Must-read papers on Sememe Computation](https://github.com/thunlp/SCPapers)
   - [Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning Papers](https://github.com/floodsung/Meta-Learning-Papers)
   - [Must-read Papers on Textual Adversarial Attack and Defense (TAAD)](https://github.com/thunlp/TAADpapers)
+  - [Awesome Visual Question Answering Papers Reading List](https://github.com/chingyaoc/awesome-vqa)
+  - [Awesome Knowledge Graph Papers Reading List](https://github.com/shaoxiongji/awesome-knowledge-graph)
+  - [Awesome Visualization Research Reading List](https://github.com/mathisonian/awesome-visualization-research)
   
  
 
