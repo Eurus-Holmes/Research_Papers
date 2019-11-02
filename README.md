@@ -82,24 +82,29 @@
   - [Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning Papers](https://github.com/floodsung/Meta-Learning-Papers)
   - [Must-read Papers on Textual Adversarial Attack and Defense (TAAD)](https://github.com/thunlp/TAADpapers)
   
-  
+ 
 
-----------
-# Acknowledgements
-
-## About [Must-Read Papers List](#Must-Read-Papers-List)
-
-  - Thanks for [MultiComp Lab](http://multicomp.cs.cmu.edu/)'s Contributions.
-  - Thanks for [THUNLP](https://github.com/thunlp)'s Contributions.
-  - Thanks for [THUNLP-MT](https://github.com/THUNLP-MT)'s Contributions.
-
-
-## About [Code Reproduce](#Code-Reproduce)
-  - @[GitXiv](http://www.gitxiv.com/) --- Thanks for [GitXiv](http://www.gitxiv.com/)'s Contributions.
-  - @[Papers with Code](https://paperswithcode.com/) --- Thanks for [Papers with Code](https://paperswithcode.com/)'s Contributions.
-  - @[State Of The Art.AI](https://www.stateoftheart.ai/) --- Thanks for [State Of The Art.AI](https://www.stateoftheart.ai/)'s Contributions.
  
  
 
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
