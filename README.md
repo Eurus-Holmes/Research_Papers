@@ -65,7 +65,7 @@
   - [SIGGRAPH](https://www.siggraph.org/)
   
 ----------  
-## Must-Read Papers List
+## Awesome Paper Reading List
   
   - [Multimodal Machine Learning](https://github.com/multimodal-machine-learning/multimodal-ml-reading-list)
   - [ACL Anthology](https://aclweb.org/anthology/)
