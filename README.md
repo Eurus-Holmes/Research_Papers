@@ -89,6 +89,9 @@
   - [Awesome Visualization Research Reading List](https://github.com/mathisonian/awesome-visualization-research)
   
   
+# License
+
+See the [LICENSE]() file for this project's licensing.
  
 
  
