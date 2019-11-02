@@ -68,6 +68,9 @@
 
 ## Awesome Papers Reading List
   
+  - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+  - [Deep Learning Papers Ordered By Task](https://github.com/sbrugman/deep-learning-papers)
+  - [Summaries And Notes On Deep Learning Research Papers](https://github.com/dennybritz/deeplearning-papernotes)
   - [Multimodal Machine Learning](https://github.com/multimodal-machine-learning/multimodal-ml-reading-list)
   - [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/multimodal-ml-reading-list)
   - [Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)
@@ -84,7 +87,7 @@
   - [Awesome Visual Question Answering Papers Reading List](https://github.com/chingyaoc/awesome-vqa)
   - [Awesome Knowledge Graph Papers Reading List](https://github.com/shaoxiongji/awesome-knowledge-graph)
   - [Awesome Visualization Research Reading List](https://github.com/mathisonian/awesome-visualization-research)
-  - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+  
   
  
 
