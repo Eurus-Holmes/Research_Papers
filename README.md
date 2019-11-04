@@ -1,7 +1,7 @@
 # RP (Research Papers)
 
-![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)
+[![Build Status](https://travis-ci.com/Eurus-Holmes/Research_Papers.svg?branch=master)](https://travis-ci.com/Eurus-Holmes/Research_Papers)
+[![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://en.wikipedia.org/wiki/MIT_License)
 ![prs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 
