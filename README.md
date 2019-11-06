@@ -87,6 +87,7 @@
   - [Awesome Visual Question Answering Papers Reading List](https://github.com/chingyaoc/awesome-vqa)
   - [Awesome Knowledge Graph Papers Reading List](https://github.com/shaoxiongji/awesome-knowledge-graph)
   - [Awesome Visualization Research Reading List](https://github.com/mathisonian/awesome-visualization-research)
+  - [Disentangled Representation Papers](https://github.com/sootlasten/disentangled-representation-papers)
   
   
 # License
