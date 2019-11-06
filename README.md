@@ -89,6 +89,7 @@
   - [Awesome Visualization Research Reading List](https://github.com/mathisonian/awesome-visualization-research)
   - [Disentangled Representation Papers](https://github.com/sootlasten/disentangled-representation-papers)
   - [Machine Translation Group at JHU - Papers to Read](http://www.statmt.org/jhu/?n=PapersToRead.HomePage)
+  - [Paper List For Linking ODE and Deep Learning](https://github.com/2prime/ODE-DL)
   
   
 # License
