@@ -106,6 +106,7 @@
 
 ## Others
 
+  - [2018 Top Conference Best Paper Awarding](https://github.com/Eurus-Holmes/Research_Papers/tree/master/2018TopConferenceBestPaperAwarding)
   - [Paper_Writing_Related](https://github.com/Eurus-Holmes/Research_Papers/tree/master/Paper_Writing_Related)
   - [Research_Related](https://github.com/Eurus-Holmes/Research_Papers/tree/master/Research_Related)
   
