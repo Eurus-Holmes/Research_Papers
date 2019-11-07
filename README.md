@@ -67,58 +67,44 @@
   
 
 ## Awesome Papers Reading List
-  
+
+### Deep Learning & Machine Learning
   - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
   - [Deep Learning Papers Ordered By Task](https://github.com/sbrugman/deep-learning-papers)
   - [Summaries And Notes On Deep Learning Research Papers](https://github.com/dennybritz/deeplearning-papernotes)
+  - [Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning Papers](https://github.com/floodsung/Meta-Learning-Papers)
+  - [Disentangled Representation Papers](https://github.com/sootlasten/disentangled-representation-papers)  
+  - [Paper List For Linking ODE and Deep Learning](https://github.com/2prime/ODE-DL)
+
+### Multimodal
   - [Multimodal Machine Learning](https://github.com/multimodal-machine-learning/multimodal-ml-reading-list)
   - [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/multimodal-ml-reading-list)
-  - [Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)
-  - [Text Generation Reading List](https://github.com/THUNLP-MT/TG-Reading-List)
+  
+### Natural Language Processing
+
   - [Must-read Papers on pre-trained language models](https://github.com/thunlp/PLMpapers)
-  - [Must-read papers on graph neural networks (GNN)](https://github.com/thunlp/GNNPapers)
+  - [Must-read papers on graph neural networks (GNN)](https://github.com/thunlp/GNNPapers)  
+  - [Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List)
+  - [Machine Translation Group at JHU - Papers to Read](http://www.statmt.org/jhu/?n=PapersToRead.HomePage)
+  - [Text Generation Reading List](https://github.com/THUNLP-MT/TG-Reading-List)
+  - [Awesome Text Generation](https://github.com/ChenChengKuan/awesome-text-generation)  
   - [Must-read papers on network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers)
   - [Must-read papers on Machine Reading Comprehension](https://github.com/thunlp/RCPapers)
   - [Must-read papers on neural relation extraction (NRE)](https://github.com/thunlp/NREPapers)
   - [Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
   - [Must-read papers on Sememe Computation](https://github.com/thunlp/SCPapers)
-  - [Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning Papers](https://github.com/floodsung/Meta-Learning-Papers)
   - [Must-read Papers on Textual Adversarial Attack and Defense (TAAD)](https://github.com/thunlp/TAADpapers)
   - [Awesome Visual Question Answering Papers Reading List](https://github.com/chingyaoc/awesome-vqa)
   - [Awesome Knowledge Graph Papers Reading List](https://github.com/shaoxiongji/awesome-knowledge-graph)
+  
+### Computer Vision
+  - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
+### Visualization Research
   - [Awesome Visualization Research Reading List](https://github.com/mathisonian/awesome-visualization-research)
-  - [Disentangled Representation Papers](https://github.com/sootlasten/disentangled-representation-papers)
-  - [Machine Translation Group at JHU - Papers to Read](http://www.statmt.org/jhu/?n=PapersToRead.HomePage)
-  - [Paper List For Linking ODE and Deep Learning](https://github.com/2prime/ODE-DL)
-  - [Awesome Text Generation](https://github.com/ChenChengKuan/awesome-text-generation)
   
   
 # License
 
 See the [LICENSE](https://github.com/Eurus-Holmes/Research_Papers/blob/master/LICENSE) file for this repository's licensing.
  
-
- 
- 
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
