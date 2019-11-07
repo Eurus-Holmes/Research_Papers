@@ -103,6 +103,11 @@
 ### Visualization Research
   - [Awesome Visualization Research Reading List](https://github.com/mathisonian/awesome-visualization-research)
   
+
+## Others
+
+  - [Research_Related](https://github.com/Eurus-Holmes/Research_Papers/tree/master/Research_Related)
+  
   
 # License
 
