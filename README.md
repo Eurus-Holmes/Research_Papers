@@ -75,6 +75,7 @@
   - [Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning Papers](https://github.com/floodsung/Meta-Learning-Papers)
   - [Disentangled Representation Papers](https://github.com/sootlasten/disentangled-representation-papers)  
   - [Paper List For Linking ODE and Deep Learning](https://github.com/2prime/ODE-DL)
+  - [A curated list of neural architecture search (NAS) resources](https://github.com/D-X-Y/Awesome-NAS)
 
 ### Multimodal
   - [Multimodal Machine Learning](https://github.com/multimodal-machine-learning/multimodal-ml-reading-list)
