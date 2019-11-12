@@ -76,6 +76,7 @@
   - [Disentangled Representation Papers](https://github.com/sootlasten/disentangled-representation-papers)  
   - [Paper List For Linking ODE and Deep Learning](https://github.com/2prime/ODE-DL)
   - [A curated list of neural architecture search (NAS) resources](https://github.com/D-X-Y/Awesome-NAS)
+  - [A list of papers, blogs, datasets and software in the field of lifelong/continual machine learning](https://github.com/prprbr/awesome-lifelong-continual-learning)
 
 ### Multimodal
   - [Multimodal Machine Learning](https://github.com/multimodal-machine-learning/multimodal-ml-reading-list)
