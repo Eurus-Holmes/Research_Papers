@@ -106,6 +106,19 @@
   - [Awesome Visualization Research Reading List](https://github.com/mathisonian/awesome-visualization-research)
   
 
+## Academic Blog Posts
+
+  - [CMU ML Blog](https://blog.ml.cmu.edu/)
+  - [BAIR Blog](https://bair.berkeley.edu/blog/)
+  - [Google AI Blog](https://ai.googleblog.com/)
+  - [OpenAI Blog](https://openai.com/blog/)
+  - [FAIR](https://research.fb.com/blog/)
+  - [DeepMind Blog](https://deepmind.com/blog)
+  - [Distill Blog](https://distill.pub/)
+  - [Off-convex path Blog](http://www.offconvex.org/)
+  - [Argmin Blog](http://www.argmin.net/)
+  
+  
 ## Others
 
   - [2018 Top Conference Best Paper Awarding](https://github.com/Eurus-Holmes/Research_Papers/tree/master/2018TopConferenceBestPaperAwarding)
