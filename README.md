@@ -110,6 +110,7 @@
 
   - [CMU ML Blog](https://blog.ml.cmu.edu/)
   - [BAIR Blog](https://bair.berkeley.edu/blog/)
+  - [Stanford AI Lab Blog](http://ai.stanford.edu/blog/)
   - [Google AI Blog](https://ai.googleblog.com/)
   - [OpenAI Blog](https://openai.com/blog/)
   - [FAIR](https://research.fb.com/blog/)
