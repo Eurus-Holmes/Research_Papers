@@ -19,6 +19,7 @@
 
   - [NeurIPS](https://nips.cc/)
     - [NeurIPS Proceedings](https://papers.nips.cc/)
+    - [NeurIPS 2019](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-32-2019)
   
   - [ECCV](https://dblp.org/db/conf/eccv/)
   
