@@ -20,6 +20,7 @@
   - [NeurIPS](https://nips.cc/)
     - [NeurIPS Proceedings](https://papers.nips.cc/)
     - [NeurIPS 2019](https://papers.nips.cc/book/advances-in-neural-information-processing-systems-32-2019)
+    - [NeurIPS 2019 Notes (Vancouver, BC, Canada) --- from David Abel](https://david-abel.github.io/notes/neurips_2019.pdf)
   
   - [ECCV](https://dblp.org/db/conf/eccv/)
   
