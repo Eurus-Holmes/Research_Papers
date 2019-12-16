@@ -99,5 +99,6 @@ index | Title | Source | Notes/Code |
 95 | *SinGAN: Learning a Generative Model from a Single Natural Image* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SinGAN-Learning-a-Generative-Model-from-a-Single-Natural-Image.pdf) | [Code1/](https://github.com/tamarott/SinGAN)[Code2/](https://github.com/FriedRonaldo/SinGAN)[Website](http://webee.technion.ac.il/people/tomermic/SinGAN/SinGAN.htm) |
 96 | *Multimodal Transformer for Unaligned Multimodal Language Sequences* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Multimodal-Transformer-for-Unaligned-Multimodal-Language-Sequences.pdf) | [Code](https://github.com/yaohungt/Multimodal-Transformer) |
 97 | *A Visual Attention Grounding Neural Model for Multimodal Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/A-Visua-Attention-Grounding-Neural-Model-for-Multimodal-Machine-Translation.pdf) | [Code](https://github.com/zmykevin/A-Visual-Attention-Grounding-Neural-Model) |
+98 | *Dynamic Fusion for Multimodal Data* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Dynamic-Fusion-for-Multimodal-Data.pdf) | TBD |
 
 
