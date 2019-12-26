@@ -100,5 +100,6 @@ index | Title | Source | Notes/Code |
 96 | *Multimodal Transformer for Unaligned Multimodal Language Sequences* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Multimodal-Transformer-for-Unaligned-Multimodal-Language-Sequences.pdf) | [Code](https://github.com/yaohungt/Multimodal-Transformer) |
 97 | *A Visual Attention Grounding Neural Model for Multimodal Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/A-Visua-Attention-Grounding-Neural-Model-for-Multimodal-Machine-Translation.pdf) | [Code](https://github.com/zmykevin/A-Visual-Attention-Grounding-Neural-Model) |
 98 | *Dynamic Fusion for Multimodal Data* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Dynamic-Fusion-for-Multimodal-Data.pdf) | TBD |
+99 | *Doubly-Attentive Decoder for Multi-modal Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Doubly-Attentive-Decoder-for-Multi-modal-Neural-Machine-Translation.pdf) | [Code](https://github.com/iacercalixto/MultimodalNMT) |
 
 
