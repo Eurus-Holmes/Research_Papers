@@ -81,7 +81,7 @@
   - [A list of papers, blogs, datasets and software in the field of lifelong/continual machine learning](https://github.com/prprbr/awesome-lifelong-continual-learning)
 
 ### Multimodal
-  - [Multimodal Machine Learning](https://github.com/multimodal-machine-learning/multimodal-ml-reading-list)
+  - [Multimodal Machine Learning](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
   - [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/multimodal-ml-reading-list)
   
 ### Natural Language Processing
